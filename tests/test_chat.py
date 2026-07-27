@@ -44,6 +44,18 @@ def test_chat_turn_caps_evidence_and_writes_audit(tmp_path):
     assert audit["type"] == "chat_turn" and audit["answer"]
 
 
+def test_followup_inherits_previous_scope(tmp_path):
+    """'Which of the two...' has no IDs — must inherit the previous turn's scope."""
+    out = chat_turn("Which of the two needs closer human review?", [], ALL_IDS,
+                    StubRetriever(), StubLLM(), "data/raw", tmp_path,
+                    minimize=lambda p: {"applicant_id": p["applicant_id"]},
+                    fallback_scope=["APP-0002", "APP-0008"])
+    assert out["scope"] == ["APP-0002", "APP-0008"]
+    assert {e["applicant_id"] for e in out["evidence"]} == {"APP-0002", "APP-0008"}
+    audit = json.loads(Path(out["audit_file"]).read_text())
+    assert audit["scope_source"] == "inherited_from_previous_turn"
+
+
 def test_prompt_contains_history_profiles_and_evidence():
     prompt = build_chat_prompt(
         "who is stronger?",

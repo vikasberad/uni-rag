@@ -36,6 +36,10 @@ Rules:
    weaknesses, and organize the answer per applicant or per criterion.
 5. Applicants are identified only by their ID (e.g. APP-0007) for privacy reasons.
 6. Be concise and professional. Plain text, short paragraphs; no markdown tables.
+7. The conversation history is only for understanding what the professor is asking.
+   Every factual claim (project titles, scores, publications, quotes) must come from
+   the CURRENT evidence chunks and profiles — never reuse details about one applicant
+   from earlier turns when discussing a different applicant.
 """
 
 
@@ -103,10 +107,21 @@ def build_chat_prompt(question: str, profiles: dict[str, dict],
 def chat_turn(question: str, selected_ids: list[str], all_ids: list[str],
               retriever, llm, raw_dir: str | Path, audit_dir: str | Path,
               minimize, history: list[dict] | None = None,
+              fallback_scope: list[str] | None = None,
               per_applicant: int = 4, pool_k: int = 8) -> dict:
-    """One grounded chat turn. Returns {'answer', 'evidence', 'scope', 'audit_file'}."""
+    """One grounded chat turn. Returns {'answer', 'evidence', 'scope', 'audit_file'}.
+
+    fallback_scope: the previous turn's scope. If the current question mentions no
+    applicant IDs and none are selected in the UI, we inherit it — so follow-ups
+    like "which of the two is stronger?" stay anchored to the right applicants
+    instead of degrading to pool-wide retrieval.
+    """
     history = history or []
     scope = resolve_scope(question, selected_ids, all_ids)
+    scope_source = "explicit"
+    if not scope and fallback_scope:
+        scope = [a for a in fallback_scope if a in all_ids]
+        scope_source = "inherited_from_previous_turn"
     evidence = _gather_evidence(question, scope, retriever, per_applicant, pool_k)
     profiles = _load_profiles(scope, raw_dir, minimize)
     prompt = build_chat_prompt(question, profiles, evidence, history)
@@ -118,6 +133,7 @@ def chat_turn(question: str, selected_ids: list[str], all_ids: list[str],
         "model": getattr(llm, "model", "unknown"),
         "question": question,
         "scope": scope,
+        "scope_source": scope_source,
         "system_prompt": CHAT_SYSTEM_PROMPT,
         "prompt": prompt,
         "evidence": evidence,

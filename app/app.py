@@ -59,6 +59,7 @@ with tab_chat:
         show_profiles = st.checkbox("Show profile cards for focus", value=True)
         if st.button("Clear conversation"):
             st.session_state.chat_history = []
+            st.session_state.last_scope = []
             st.rerun()
         if show_profiles:
             for a in scope_ids[:4]:
@@ -105,7 +106,10 @@ with tab_chat:
                         audit_dir=CFG["data"]["audit_dir"],
                         minimize=minimize_profile,
                         history=st.session_state.chat_history[:-1],
+                        fallback_scope=st.session_state.get("last_scope", []),
                     )
+                if out["scope"]:
+                    st.session_state.last_scope = out["scope"]
                 st.write(out["answer"])
                 if out["scope"]:
                     st.caption("Scope: " + ", ".join(out["scope"]))
