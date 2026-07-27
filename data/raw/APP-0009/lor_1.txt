@@ -1,0 +1,10 @@
+Letter of Recommendation
+
+To the Admissions Committee,
+
+I am writing to recommend the applicant for the MSc Data Science program. As their Professor, I consider them a solid and dependable student. They demonstrated particular aptitude in MLOps, notably in a project involving cultivate innovative niches. With mentorship, they improved steadily over the term.
+
+I recommend them with confidence.
+
+Sincerely,
+Corey Murphy, Professor

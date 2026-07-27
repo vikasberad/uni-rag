@@ -1,0 +1,19 @@
+Curriculum Vitae
+
+Education
+- BEng Electrical Engineering, Lewisberg University — GPA 2.61/4.0
+
+Skills
+- Spark, Python, SQL, AWS, Docker, C++
+
+Projects
+- Fully-configurable content-based core: incubate customized channels using Docker
+- Optimized contextually-based focus group: target interactive partnerships using SQL
+- Organic neutral attitude: streamline value-added infrastructures using AWS
+- Versatile disintermediate concept: deploy holistic info-mediaries using Spark
+
+Experience
+- Software Engineer, Hancock Inc (1 yr): leverage enterprise synergies
+
+Publications
+- 1 peer-reviewed paper(s) on natural language processing

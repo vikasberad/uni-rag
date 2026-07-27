@@ -1,0 +1,11 @@
+Official Transcript — Port Emilyview University
+Degree: BSc Physics   Cumulative GPA: 3.85/4.0
+
+  Compilers                    B+
+  Algorithms                   A
+  Discrete Mathematics         B+
+  Linear Algebra               B+
+  Probability & Statistics     A-
+  Machine Learning             A-
+  Databases                    B+
+  Computer Networks            A

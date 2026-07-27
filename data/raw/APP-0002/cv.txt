@@ -1,0 +1,15 @@
+Curriculum Vitae
+
+Education
+- BSc Computer Science, Reidstad University — GPA 3.74/4.0
+
+Skills
+- Python, AWS, PyTorch, Spark, Git, TensorFlow
+
+Projects
+- Inverse zero administration time-frame: streamline bleeding-edge paradigms using PyTorch
+- Intuitive impactful flexibility: optimize killer networks using Git
+- Universal foreground data-warehouse: visualize rich interfaces using Spark
+
+Publications
+- 1 peer-reviewed paper(s) on recommender systems

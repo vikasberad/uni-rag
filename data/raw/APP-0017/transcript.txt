@@ -1,0 +1,11 @@
+Official Transcript — Port Jaredborough University
+Degree: BSc Computer Science   Cumulative GPA: 2.58/4.0
+
+  Compilers                    B
+  Algorithms                   B-
+  Software Engineering         B-
+  Linear Algebra               C+
+  Computer Networks            B
+  Data Structures              B
+  Operating Systems            B
+  Discrete Mathematics         B-

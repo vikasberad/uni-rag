@@ -1,0 +1,11 @@
+Official Transcript — Port Thomasborough University
+Degree: BEng Electrical Engineering   Cumulative GPA: 3.24/4.0
+
+  Operating Systems            A-
+  Discrete Mathematics         A-
+  Software Engineering         B-
+  Compilers                    B
+  Computer Networks            A-
+  Algorithms                   B+
+  Probability & Statistics     B
+  Deep Learning                B

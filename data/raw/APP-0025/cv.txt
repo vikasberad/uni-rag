@@ -1,0 +1,17 @@
+Curriculum Vitae
+
+Education
+- BEng Electrical Engineering, Davisborough University — GPA 2.84/4.0
+
+Skills
+- Python, C++, Git, SQL, TensorFlow, Docker
+
+Projects
+- Digitized clear-thinking moratorium: morph virtual initiatives using SQL
+- Switchable 4thgeneration capacity: implement synergistic action-items using C++
+
+Experience
+- Software Engineer, Morris, Thompson and Williams (1 yr): extend next-generation deliverables
+
+Publications
+- 1 peer-reviewed paper(s) on natural language processing

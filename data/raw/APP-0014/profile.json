@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0014",
+  "name": "Barbara Riggs",
+  "email": "reedross@example.com",
+  "nationality": "Bangladesh",
+  "program": "MSc Data Science",
+  "undergrad_degree": "BSc Mathematics",
+  "undergrad_university": "Alexanderchester University",
+  "gpa": 2.71,
+  "gpa_scale": 4.0,
+  "ielts": 7.1,
+  "gre_quant": 161,
+  "interests": [
+    "human-computer interaction",
+    "distributed systems"
+  ],
+  "work_experience_years": 1,
+  "publications": 0,
+  "_strength": "weak"
+}

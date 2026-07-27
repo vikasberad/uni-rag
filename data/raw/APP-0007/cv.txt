@@ -1,0 +1,11 @@
+Curriculum Vitae
+
+Education
+- BEng Electrical Engineering, New Joseph University — GPA 3.39/4.0
+
+Skills
+- Docker, Python, Git, AWS, PyTorch, Spark
+
+Projects
+- Customizable bi-directional synergy: engage B2C niches using Python
+- Horizontal real-time database: unleash cross-platform e-tailers using Spark

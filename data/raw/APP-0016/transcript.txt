@@ -1,0 +1,11 @@
+Official Transcript — West Alexis University
+Degree: BSc Computer Science   Cumulative GPA: 2.85/4.0
+
+  Probability & Statistics     C+
+  Compilers                    C+
+  Linear Algebra               B
+  Algorithms                   B
+  Machine Learning             B
+  Data Structures              B
+  Operating Systems            B
+  Computer Networks            C+

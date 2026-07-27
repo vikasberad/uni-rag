@@ -1,0 +1,7 @@
+Statement of Purpose — MSc Data Science
+
+My fascination with human-computer interaction began during my BSc Mathematics at Vaughnmouth University, where a course project on iterate seamless solutions showed me how theory translates into real impact. Since then I have deepened my skills in human-computer interaction and edge computing, completing an undergraduate thesis on "Human-Computer Interaction approaches to networked mission-critical benchmark".
+
+While I lack industry experience, I have invested heavily in self-driven projects and open-source contributions. 
+
+Your program's strengths in edge computing align directly with my goal of pursuing research at the intersection of human-computer interaction and edge computing. Long term, I aim to build products that make AI trustworthy. I am confident my background in BSc Mathematics (GPA 3.62/4.0) prepares me to contribute meaningfully to your community.

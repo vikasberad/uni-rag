@@ -1,0 +1,11 @@
+Official Transcript — Freemanbury University
+Degree: BSc Mathematics   Cumulative GPA: 3.14/4.0
+
+  Machine Learning             A-
+  Discrete Mathematics         B
+  Computer Networks            B+
+  Algorithms                   A-
+  Compilers                    B
+  Data Structures              B-
+  Deep Learning                B-
+  Operating Systems            B+

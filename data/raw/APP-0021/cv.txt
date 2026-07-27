@@ -1,0 +1,19 @@
+Curriculum Vitae
+
+Education
+- BSc Physics, Brennanton University — GPA 3.7/4.0
+
+Skills
+- Git, SQL, TensorFlow, Python, C++, PyTorch
+
+Projects
+- Multi-channeled holistic Internet solution: orchestrate interactive deliverables using Git
+- Open-source non-volatile software: generate viral communities using Python
+- Enhanced attitude-oriented pricing structure: cultivate enterprise e-business using PyTorch
+- Synergized disintermediate methodology: redefine B2B e-services using TensorFlow
+
+Experience
+- Software Engineer, Little-Stevens (2 yr): repurpose value-added bandwidth
+
+Publications
+- 1 peer-reviewed paper(s) on MLOps

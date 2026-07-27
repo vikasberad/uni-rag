@@ -1,0 +1,13 @@
+Curriculum Vitae
+
+Education
+- BEng Electrical Engineering, Bradleymouth University — GPA 3.21/4.0
+
+Skills
+- Docker, C++, AWS, Python, Git, PyTorch
+
+Projects
+- Balanced fault-tolerant hierarchy: productize revolutionary convergence using Docker
+- Expanded systemic encryption: repurpose sticky convergence using C++
+- Vision-oriented next generation installation: re-intermediate B2C action-items using Python
+- Diverse context-sensitive installation: utilize virtual supply-chains using AWS

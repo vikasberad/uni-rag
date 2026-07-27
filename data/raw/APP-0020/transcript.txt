@@ -1,0 +1,11 @@
+Official Transcript — Martinside University
+Degree: BSc Computer Science   Cumulative GPA: 3.54/4.0
+
+  Computer Networks            A
+  Probability & Statistics     A
+  Machine Learning             B+
+  Linear Algebra               B+
+  Data Structures              A
+  Deep Learning                A
+  Discrete Mathematics         A
+  Compilers                    A

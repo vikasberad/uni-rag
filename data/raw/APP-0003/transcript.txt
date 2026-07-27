@@ -1,0 +1,11 @@
+Official Transcript — Hurstfurt University
+Degree: BSc Computer Science   Cumulative GPA: 3.14/4.0
+
+  Operating Systems            B
+  Compilers                    B+
+  Discrete Mathematics         B+
+  Computer Networks            B
+  Deep Learning                B+
+  Linear Algebra               A-
+  Machine Learning             B+
+  Probability & Statistics     B+

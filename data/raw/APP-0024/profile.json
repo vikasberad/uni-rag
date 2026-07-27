@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0024",
+  "name": "Ashley Hall",
+  "email": "harveysherry@example.com",
+  "nationality": "United States Virgin Islands",
+  "program": "MSc Software Engineering",
+  "undergrad_degree": "BSc Computer Science",
+  "undergrad_university": "Lake Bryan University",
+  "gpa": 2.62,
+  "gpa_scale": 4.0,
+  "ielts": 7.2,
+  "gre_quant": 164,
+  "interests": [
+    "natural language processing",
+    "human-computer interaction"
+  ],
+  "work_experience_years": 0,
+  "publications": 0,
+  "_strength": "weak"
+}

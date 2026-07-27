@@ -1,0 +1,11 @@
+Official Transcript — New Roberttown University
+Degree: BSc Mathematics   Cumulative GPA: 3.48/4.0
+
+  Software Engineering         B-
+  Deep Learning                A-
+  Computer Networks            A-
+  Operating Systems            B+
+  Discrete Mathematics         B+
+  Data Structures              A-
+  Compilers                    B-
+  Linear Algebra               B

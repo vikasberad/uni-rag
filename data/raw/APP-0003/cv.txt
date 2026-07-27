@@ -1,0 +1,14 @@
+Curriculum Vitae
+
+Education
+- BSc Computer Science, Hurstfurt University — GPA 3.14/4.0
+
+Skills
+- Spark, TensorFlow, C++, AWS, Linux, Python
+
+Projects
+- Advanced systemic success: embrace real-time experiences using C++
+- Mandatory bifurcated frame: brand granular bandwidth using C++
+
+Experience
+- Software Engineer, Mckay Ltd (1 yr): morph virtual mindshare

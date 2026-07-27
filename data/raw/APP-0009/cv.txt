@@ -1,0 +1,16 @@
+Curriculum Vitae
+
+Education
+- BEng Electrical Engineering, Port Thomasborough University — GPA 3.24/4.0
+
+Skills
+- Git, SQL, Docker, TensorFlow, PyTorch, Python
+
+Projects
+- Customizable empowering conglomeration: benchmark back-end paradigms using SQL
+- Customer-focused radical Internet solution: seize turn-key e-commerce using TensorFlow
+- Robust multimedia budgetary management: synergize dynamic portals using SQL
+- Balanced tertiary Internet solution: implement 24/365 relationships using TensorFlow
+
+Experience
+- Software Engineer, Jones-Beck (1 yr): facilitate turn-key web services

@@ -1,0 +1,11 @@
+Official Transcript — Port Nicoleshire University
+Degree: BSc Mathematics   Cumulative GPA: 3.56/4.0
+
+  Data Structures              A-
+  Discrete Mathematics         A
+  Algorithms                   B+
+  Computer Networks            A-
+  Deep Learning                A
+  Databases                    A
+  Linear Algebra               A
+  Operating Systems            A-

@@ -1,0 +1,25 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  index_dir: data/index
+  audit_dir: data/audit
+
+chunking:
+  chunk_size: 700
+  chunk_overlap: 100
+
+embeddings:
+  model_name: sentence-transformers/all-MiniLM-L6-v2   # small, fast, local
+  batch_size: 32
+
+retrieval:
+  top_k: 6
+
+llm:
+  provider: ollama
+  model: llama3.2          # quantized SLM; try qwen2.5:3b or phi3:mini too
+  temperature: 0.1
+  max_tokens: 900
+
+privacy:
+  pseudonymize: true       # strip names/emails before indexing (GDPR)

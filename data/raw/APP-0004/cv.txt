@@ -1,0 +1,15 @@
+Curriculum Vitae
+
+Education
+- BSc Mathematics, New Mariotown University — GPA 3.05/4.0
+
+Skills
+- Spark, Linux, SQL, PyTorch, Git, Docker
+
+Projects
+- Progressive real-time interface: architect 24/365 content using Linux
+- Open-architected static projection: disintermediate visionary deliverables using Linux
+- Organized bottom-line encryption: enhance innovative supply-chains using PyTorch
+
+Experience
+- Software Engineer, Chapman and Sons (1 yr): benchmark magnetic synergies

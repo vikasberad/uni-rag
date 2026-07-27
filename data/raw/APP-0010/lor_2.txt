@@ -1,0 +1,10 @@
+Letter of Recommendation
+
+To the Admissions Committee,
+
+I am writing to recommend the applicant for the MSc Robotics program. As their Engineering Manager, I consider them a student who showed potential but inconsistent performance. They demonstrated particular aptitude in reinforcement learning, notably in a project involving generate frictionless web services. With mentorship, they improved steadily over the term.
+
+I recommend them with some reservations noted above.
+
+Sincerely,
+Michael Dixon, Engineering Manager

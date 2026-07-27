@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0022",
+  "name": "Megan Moore",
+  "email": "llandry@example.com",
+  "nationality": "Northern Mariana Islands",
+  "program": "MSc Data Science",
+  "undergrad_degree": "BSc Mathematics",
+  "undergrad_university": "Vaughnmouth University",
+  "gpa": 3.62,
+  "gpa_scale": 4.0,
+  "ielts": 7.3,
+  "gre_quant": 163,
+  "interests": [
+    "human-computer interaction",
+    "edge computing"
+  ],
+  "work_experience_years": 0,
+  "publications": 0,
+  "_strength": "strong"
+}

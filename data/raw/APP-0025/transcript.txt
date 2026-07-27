@@ -1,0 +1,11 @@
+Official Transcript — Davisborough University
+Degree: BEng Electrical Engineering   Cumulative GPA: 2.84/4.0
+
+  Computer Networks            B-
+  Discrete Mathematics         B-
+  Data Structures              B
+  Linear Algebra               B
+  Compilers                    C+
+  Probability & Statistics     C+
+  Algorithms                   B
+  Databases                    B
