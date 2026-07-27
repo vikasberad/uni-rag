@@ -37,4 +37,5 @@ def test_pseudonymize():
 def test_minimize_profile():
     profile = json.loads((_first_app() / "profile.json").read_text())
     m = minimize_profile(profile)
-    assert "name" not in m and "email" not in m and "gpa" in m
+    assert "name" not in m and "email" not in m and "date_of_birth" not in m
+    assert "cgpa" in m and "german_equivalent_grade" in m
