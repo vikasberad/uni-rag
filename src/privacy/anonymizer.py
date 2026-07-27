@@ -32,6 +32,10 @@ def pseudonymize(text: str, profile: dict) -> str:
 
 def minimize_profile(profile: dict) -> dict:
     """Data minimization: keep only evaluation-relevant fields for prompting."""
-    keep = ["applicant_id", "program", "undergrad_degree", "gpa", "gpa_scale",
-            "ielts", "gre_quant", "work_experience_years", "publications", "interests"]
+    keep = ["applicant_id", "program", "intended_specialization", "undergrad_degree",
+            "cgpa", "cgpa_scale", "german_equivalent_grade", "english_test",
+            "english_score", "gre_quant", "work_experience_years", "internships",
+            "publications", "interests", "aps_required",
+            # legacy v1 fields, kept for backward compatibility
+            "gpa", "gpa_scale", "ielts"]
     return {k: profile[k] for k in keep if k in profile}
