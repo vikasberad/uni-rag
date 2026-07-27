@@ -1,5 +1,19 @@
+# Virtual environment
 .venv/
+venv/
+
+# Python
 __pycache__/
-data/index/
-data/audit/
 *.pyc
+
+# Secrets
+.env
+
+# Logs
+*.log
+
+# Students Data
+data/raw/
+
+# OS junk
+Thumbs.db
