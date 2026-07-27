@@ -1,0 +1,68 @@
+{
+  "applicant_id": "APP-0002",
+  "timestamp": "2026-07-28T03:00:39",
+  "model": "llama3.2",
+  "system_prompt": "You are an admissions evaluation assistant. You produce a structured,\nevidence-grounded assessment to SUPPORT a human reviewer \u2014 you never make the final decision.\n\nRules:\n1. Base every claim ONLY on the provided evidence chunks [E1..En] and the structured profile.\n2. Cite evidence IDs for each criterion.\n3. If evidence is missing for a criterion, say so and score conservatively.\n4. Score each criterion 1-5 (1=weak, 3=adequate, 5=exceptional).\n5. Respond with ONLY valid JSON, no markdown fences, matching:\n{\"scores\": {<criterion>: int, ...},\n \"recommendation\": \"admit\" | \"borderline\" | \"reject\",\n \"justification\": \"<3-5 sentences>\",\n \"evidence_cited\": [\"E1\", ...]}",
+  "prompt": "Structured profile (pseudonymized):\n{\n  \"applicant_id\": \"APP-0002\",\n  \"program\": \"MSc Information Technology (INFOTECH)\",\n  \"intended_specialization\": \"Computer Hardware/Software Engineering\",\n  \"undergrad_degree\": \"BEng Electrical Engineering\",\n  \"cgpa\": 9.22,\n  \"cgpa_scale\": 10.0,\n  \"german_equivalent_grade\": 1.47,\n  \"english_test\": \"TOEFL iBT\",\n  \"english_score\": 112,\n  \"gre_quant\": null,\n  \"work_experience_years\": 1,\n  \"internships\": 2,\n  \"publications\": 0,\n  \"interests\": [\n    \"real-time systems\",\n    \"communication networks\"\n  ],\n  \"aps_required\": false\n}\n\nEvidence chunks:\n\n[E1] (transcript, criterion hint: academic_readiness)\nEAST WILLIAM COLLEGE OF ENGINEERING\nOFFICE OF THE CONTROLLER OF EXAMINATIONS\n==============================================================================\nTRANSCRIPT OF RECORDS\n==============================================================================\nName of Student   : APP-0002\nDegree            : BEng Electrical Engineering (4-year program)\nEnrollment Number : [PHONE_REDACTED]\nPeriod of Study   : [PHONE_REDACTED]\nMedium of Instruction: English\n\nGrading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)\n------------------------------------------------------------------------------\n\n[E2] (sop, criterion hint: research_potential)\n. The project taught me to navigate the trials of independent research and confirmed my readiness for graduate-level coursework.\n\n[E3] (sop, criterion hint: research_potential)\n. I am applying to the MSc Information Technology (INFOTECH) at the University of Stuttgart, with an intended specialization in Computer Hardware/Software Engineering, because I want to master the advanced methodologies required to bridge the gap between theoretical knowledge and practical solutions in this rapidly evolving field.\n\n[E4] (lor_1, criterion hint: recommendations)\nSubject: Letter of Recommendation for APP-0002\n\nDear Members of the Admissions Committee,\n\nIt is a distinct pleasure to write this letter of recommendation for APP-0002 as they apply for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. As a Professor of Electronics at East William College of Engineering, I have interacted with many promising students over the past 10 years; APP-0002 stands out as one of the top 5% of students I have taught in my 10 years at this institution. I have known them for 4 years, during which time they took my courses in Technical Communication and Computer Organization.\n\n[E5] (sop, criterion hint: experience_skills)\n. Additionally, I served as a teaching assistant for undergraduate programming courses, which helped me develop the communication and leadership skills necessary to thrive in a diverse, collaborative environment.\n\nEvaluate the applicant on: academic_readiness, research_potential, motivation_fit, recommendations, experience_skills. Return JSON only.",
+  "evidence": [
+    {
+      "chunk_id": "APP-0002:transcript:0",
+      "applicant_id": "APP-0002",
+      "doc_type": "transcript",
+      "text": "EAST WILLIAM COLLEGE OF ENGINEERING\nOFFICE OF THE CONTROLLER OF EXAMINATIONS\n==============================================================================\nTRANSCRIPT OF RECORDS\n==============================================================================\nName of Student   : APP-0002\nDegree            : BEng Electrical Engineering (4-year program)\nEnrollment Number : [PHONE_REDACTED]\nPeriod of Study   : [PHONE_REDACTED]\nMedium of Instruction: English\n\nGrading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)\n------------------------------------------------------------------------------",
+      "score": 0.4215918183326721,
+      "eid": "E1"
+    },
+    {
+      "chunk_id": "APP-0002:sop:4",
+      "applicant_id": "APP-0002",
+      "doc_type": "sop",
+      "text": ". The project taught me to navigate the trials of independent research and confirmed my readiness for graduate-level coursework.",
+      "score": 0.4922367334365845,
+      "eid": "E2"
+    },
+    {
+      "chunk_id": "APP-0002:sop:2",
+      "applicant_id": "APP-0002",
+      "doc_type": "sop",
+      "text": ". I am applying to the MSc Information Technology (INFOTECH) at the University of Stuttgart, with an intended specialization in Computer Hardware/Software Engineering, because I want to master the advanced methodologies required to bridge the gap between theoretical knowledge and practical solutions in this rapidly evolving field.",
+      "score": 0.44255712628364563,
+      "eid": "E3"
+    },
+    {
+      "chunk_id": "APP-0002:lor_1:1",
+      "applicant_id": "APP-0002",
+      "doc_type": "lor_1",
+      "text": "Subject: Letter of Recommendation for APP-0002\n\nDear Members of the Admissions Committee,\n\nIt is a distinct pleasure to write this letter of recommendation for APP-0002 as they apply for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. As a Professor of Electronics at East William College of Engineering, I have interacted with many promising students over the past 10 years; APP-0002 stands out as one of the top 5% of students I have taught in my 10 years at this institution. I have known them for 4 years, during which time they took my courses in Technical Communication and Computer Organization.",
+      "score": 0.3410038650035858,
+      "eid": "E4"
+    },
+    {
+      "chunk_id": "APP-0002:sop:6",
+      "applicant_id": "APP-0002",
+      "doc_type": "sop",
+      "text": ". Additionally, I served as a teaching assistant for undergraduate programming courses, which helped me develop the communication and leadership skills necessary to thrive in a diverse, collaborative environment.",
+      "score": 0.45155656337738037,
+      "eid": "E5"
+    }
+  ],
+  "raw_output": "{\"scores\": {\n  \"academic_readiness\": 5,\n  \"research_potential\": 4,\n  \"motivation_fit\": 5,\n  \"recommendations\": 5,\n  \"experience_skills\": 3\n},\n\"recommendation\": \"admit\",\n\"justification\": \"The applicant has demonstrated academic readiness through their strong undergraduate degree in Electrical Engineering (E1). Their research potential is evident through their involvement in independent projects and teaching assistant roles (E2, E4), showcasing their ability to navigate complex research tasks. The letter of recommendation highlights the applicant's exceptional academic performance and leadership skills (E4). While their work experience is limited, it has provided valuable skills in communication and collaboration. Overall, the evidence suggests that the applicant is well-prepared for graduate-level coursework.\",\n\"evidence_cited\": [\"E1\", \"E2\", \"E3\", \"E4\"]}",
+  "parsed_result": {
+    "scores": {
+      "academic_readiness": 5,
+      "research_potential": 4,
+      "motivation_fit": 5,
+      "recommendations": 5,
+      "experience_skills": 3
+    },
+    "recommendation": "admit",
+    "justification": "The applicant has demonstrated academic readiness through their strong undergraduate degree in Electrical Engineering (E1). Their research potential is evident through their involvement in independent projects and teaching assistant roles (E2, E4), showcasing their ability to navigate complex research tasks. The letter of recommendation highlights the applicant's exceptional academic performance and leadership skills (E4). While their work experience is limited, it has provided valuable skills in communication and collaboration. Overall, the evidence suggests that the applicant is well-prepared for graduate-level coursework.",
+    "evidence_cited": [
+      "E1",
+      "E2",
+      "E3",
+      "E4"
+    ]
+  },
+  "disclaimer": "AI-assisted recommendation only. Final decision requires human review."
+}
