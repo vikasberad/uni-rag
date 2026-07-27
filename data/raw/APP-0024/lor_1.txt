@@ -1,10 +1,26 @@
-Letter of Recommendation
+07 November 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Information Technology (INFOTECH)
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Software Engineering program. As their Professor, I consider them a student who showed potential but inconsistent performance. They demonstrated particular aptitude in natural language processing, notably in a project involving synthesize one-to-one platforms. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Lance Hebert
 
-I recommend them with some reservations noted above.
+Dear Members of the Admissions Committee,
 
+It is a distinct pleasure to write this letter of recommendation for Lance Hebert as they apply for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. As a Professor of Computer Engineering at Port William State University, I have interacted with many promising students over the past 15 years; Lance Hebert has consistently been a solid, dependable and hardworking student within the top quarter of their cohort. I have known them for 4 years, during which time they took my courses in Microcontrollers and Data Structures and Algorithms.
+
+Academically, Lance Hebert combines sound analytical skills with steady diligence. While not always the first to volunteer an answer, their submitted work was consistently thorough, well-structured and delivered on time, and their capstone project earned a very respectable grade. For their final-year assignment they worked on a project titled "Hardware-Software Co-Design approaches to extend cross-platform technologies", which investigated how hardware-software co-design techniques can be applied in a practical engineering context. Their ability to survey the literature, formulate a clear hypothesis and execute a sound methodology left a lasting impression on the examination committee.
+
+Beyond individual academic achievement, Lance Hebert worked constructively in group settings and could be relied upon to complete their share of shared projects to a good standard. With guidance, they steadily improved their presentation and scientific writing skills over the terms I supervised them.
+
+On a personal level, Lance Hebert is a mature and motivated individual who handles heavy academic workloads and unexpected setbacks with a calm, positive demeanor. They participate actively in departmental activities and show a genuine willingness to give back to the academic community. I am confident that they possess the intellectual capacity, work ethic and character necessary to thrive in your rigorous, English-taught program and to make meaningful contributions to your university.
+
+Therefore, I give Lance Hebert my confident recommendation. Please feel free to contact me if you require any further information.
 Sincerely,
-Tracy Torres, Professor
+
+David Lopez
+Professor of Computer Engineering
+Port William State University
+cherylfowler@example.com | (585)916-1227x53046

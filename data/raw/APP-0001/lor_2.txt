@@ -1,10 +1,26 @@
-Letter of Recommendation
+09 October 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Robotics program. As their Engineering Manager, I consider them a solid and dependable student. They demonstrated particular aptitude in recommender systems, notably in a project involving exploit granular e-commerce. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Allison Hill
 
-I recommend them with confidence.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Allison Hill for admission to the MSc Computer Science at the University of Stuttgart. In my capacity as R&D Group Leader at Ray-Bush, I directly supervised Allison Hill for 9 months during their engagement as Working Student - IoT Analytics in our organization.
+
+During this period, Allison Hill built real-time telemetry pipelines using MQTT, InfluxDB and Grafana, working primarily with Git, Docker, React. In terms of delivery and impact, they reliably delivered the tasks assigned to them and grew visibly during their time with us. They asked the right questions, incorporated feedback quickly, and by the end of their tenure required minimal supervision on routine tasks.
+
+What distinguished Allison Hill in a professional environment was their combination of technical curiosity and dependability. They integrated smoothly into our team and communicated their progress clearly in stand-ups and reviews. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Computer Science is demanding and strongly research-oriented. Based on my direct observation of Allison Hill's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Allison Hill with confidence. Please do not hesitate to contact me for any further details.
 Sincerely,
-Rhonda Smith, Engineering Manager
+
+Edward Fuller
+R&D Group Leader
+Ray-Bush
+kendragalloway@example.org | 664-375-2553

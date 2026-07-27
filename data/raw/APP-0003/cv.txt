@@ -1,14 +1,49 @@
-Curriculum Vitae
+JOSE RAMIREZ
+ilewis@example.net | 243.909.8050 | North Susan, Brazil
+Date of Birth: 2005-07-12 | LinkedIn: linkedin.com/in/jose-ramirez
 
-Education
-- BSc Computer Science, Hurstfurt University — GPA 3.14/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Computer Engineering graduate (2023) with a focus on computer vision and natural language processing, holding a CGPA of 8.29/10 (German equivalent 2.03). Experienced through 2 internship(s) and 1 year(s) of professional work, with hands-on skills in REST APIs, React, C++, Java. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Visual Computing).
 
-Skills
-- Spark, TensorFlow, C++, AWS, Linux, Python
+EDUCATION
+----------------------------------------------------------------------
+2019 - 2023   BE Computer Engineering
+                Sanchezfort Technical University
+                CGPA: 8.29/10 | German equivalent grade: 2.03
 
-Projects
-- Advanced systemic success: embrace real-time experiences using C++
-- Mandatory bifurcated frame: brand granular bandwidth using C++
+EXPERIENCE
+----------------------------------------------------------------------
+12/2025 - 12/2026   R&D Intern - Machine Learning, York Inc
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Improved processing performance through profiling and optimization.
 
-Experience
-- Software Engineer, Mckay Ltd (1 yr): morph virtual mindshare
+03/2024 - 03/2025   R&D Intern - Machine Learning, Jones, Hensley and Powell
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Improved processing performance through profiling and optimization.
+
+01/2024 - 04/2024   R&D Intern - Machine Learning, Sanchez, Wheeler and Harvey
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Computer Vision-Based Prediction System
+    - Designed and implemented an end-to-end prototype using Java, SQL, Kubernetes.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Smart Campus IoT Platform
+    - Team project applying natural language processing concepts; responsible for firmware and hardware bring-up.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : REST APIs, React, C++, Java, PyTorch, Git, Kubernetes, TensorFlow
+Domains             : computer vision, natural language processing, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Led the avionics subsystem of the university rocketry team.
+    - Crganized technical workshops and hackathons as an IEEE student branch coordinator.

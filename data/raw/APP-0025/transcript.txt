@@ -1,11 +1,87 @@
-Official Transcript — Davisborough University
-Degree: BEng Electrical Engineering   Cumulative GPA: 2.84/4.0
+CHAMBERSPORT INSTITUTE OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Steven Griffin Jr.
+Degree            : BSc Computer Science (4-year program)
+Enrollment Number : 681362639
+Period of Study   : 2016 - 2020
+Medium of Instruction: English
 
-  Computer Networks            B-
-  Discrete Mathematics         B-
-  Data Structures              B
-  Linear Algebra               B
-  Compilers                    C+
-  Probability & Statistics     C+
-  Algorithms                   B
-  Databases                    B
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS1272    Engineering Mechanics                           4      O    PASS
+CS1450    Basic Electrical Engineering                    2      A    PASS
+CS1689    Fundamentals of Programming II                  3      A    PASS
+CS1717    Engineering Physics                             3      A    PASS
+CS1174    Fundamentals of Programming I                   3     A+    PASS
+          Semester GPA                                        8.73
+
+SEMESTER 2  (Summer 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS2657    Engineering Mathematics I                       3      O    PASS
+CS2983    Engineering Graphics                            2      O    PASS
+CS2485    Employability Skill Development                 2      O    PASS
+          Semester GPA                                       10.00
+
+SEMESTER 3  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS3684    Database Management Systems                     4      O    PASS
+CS3668    Theory of Computation                           3      O    PASS
+CS3933    Discrete Mathematics                            3      A    PASS
+CS3238    Computer Organization                           4      A    PASS
+CS3146    Object Oriented Programming                     4      A    PASS
+          Semester GPA                                        8.78
+
+SEMESTER 4  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS4219    Computer Networks                               2      A    PASS
+CS4539    Operating Systems                               3      O    PASS
+CS4490    Software Engineering                            4      A    PASS
+CS4199    Professional Ethics                             3      O    PASS
+          Semester GPA                                        9.00
+
+SEMESTER 5  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS5597    Compiler Design                                 3     A+    PASS
+CS5541    Design and Analysis of Algorithms               4     A+    PASS
+CS5966    Machine Learning Laboratory                     3      A    PASS
+          Semester GPA                                        8.70
+
+SEMESTER 6  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS6132    Distributed Computing                           4      A    PASS
+CS6974    Cloud Computing                                 4      A    PASS
+CS6132    Machine Learning                                3     A+    PASS
+CS6600    High Performance Computing                      3      A    PASS
+CS6911    Artificial Intelligence                         4      O    PASS
+CS6333    Programming Laboratory                          4     A+    PASS
+          Semester GPA                                        8.68
+
+SEMESTER 7  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS7385    Information Security                            4      O    PASS
+CS7238    Big Data Analytics                              2     A+    PASS
+CS7250    Natural Language Processing                     3      O    PASS
+CS7681    VLSI & Embedded Lab                             4      A    PASS
+CS7749    Technical Communication                         4      A    PASS
+          Semester GPA                                        8.94
+
+SEMESTER 8  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS8872    Microcontroller & Mechatronics Lab              4      A    PASS
+          Semester GPA                                        8.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 105
+CUMULATIVE GPA (CGPA): 9.48 / 10.00
+CLASSIFICATION       : FIRST CLASS WITH DISTINCTION
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 1.31
+
+Date of Issue: 2020-09-17
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0017",
-  "name": "Elizabeth Chapman",
-  "email": "ntorres@example.org",
-  "nationality": "New Zealand",
+  "name": "Mrs. Maria Williams",
+  "email": "hritter@example.net",
+  "date_of_birth": "2002-10-04",
+  "nationality": "Turkey",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
   "program": "MSc Computer Science",
-  "undergrad_degree": "BSc Computer Science",
-  "undergrad_university": "Port Jaredborough University",
-  "gpa": 2.58,
-  "gpa_scale": 4.0,
-  "ielts": 6.2,
-  "gre_quant": 169,
-  "interests": [
-    "MLOps",
-    "edge computing"
-  ],
-  "work_experience_years": 1,
+  "intended_specialization": "Visual Computing",
+  "undergrad_degree": "BE Computer Engineering",
+  "undergrad_university": "West Nathan College of Engineering",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2021,
+  "cgpa": 8.2,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 2.08,
+  "english_test": "IELTS",
+  "english_score": 7.0,
+  "gre_quant": 164,
+  "work_experience_years": 3,
+  "internships": 3,
   "publications": 0,
-  "_strength": "weak"
+  "interests": [
+    "machine learning",
+    "distributed systems"
+  ],
+  "_strength": "average"
 }

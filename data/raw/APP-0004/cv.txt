@@ -1,15 +1,39 @@
-Curriculum Vitae
+KRYSTAL STEWART
+james53@example.com | 428-205-9826 | Michaelton, Indonesia
+Date of Birth: 2000-12-08 | LinkedIn: linkedin.com/in/krystal-stewart
 
-Education
-- BSc Mathematics, New Mariotown University — GPA 3.05/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Information Technology graduate (2023) with a focus on natural language processing and software architecture, holding a CGPA of 6.56/10 (German equivalent 3.06). Experienced through 0 internship(s) and 3 year(s) of professional work, with hands-on skills in C++, Java, Docker, Python. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Distributed Systems).
 
-Skills
-- Spark, Linux, SQL, PyTorch, Git, Docker
+EDUCATION
+----------------------------------------------------------------------
+2019 - 2023   BSc Information Technology
+                Lake Debbie Institute of Technology
+                CGPA: 6.56/10 | German equivalent grade: 3.06
 
-Projects
-- Progressive real-time interface: architect 24/365 content using Linux
-- Open-architected static projection: disintermediate visionary deliverables using Linux
-- Organized bottom-line encryption: enhance innovative supply-chains using PyTorch
+EXPERIENCE
+----------------------------------------------------------------------
+12/2025 - 12/2026   Software Engineering Intern, Clark-Wright
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
 
-Experience
-- Software Engineer, Chapman and Sons (1 yr): benchmark magnetic synergies
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Natural Language Processing-Based Optimization System
+    - Designed and implemented an end-to-end prototype using Java, Python, REST APIs.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Smart Campus IoT Platform
+    - Team project applying software architecture concepts; responsible for model training and deployment.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : C++, Java, Docker, Python, TensorFlow, Linux, SQL, React
+Domains             : natural language processing, software architecture, software engineering practices (Git, code review, CI)
+Languages           : English (B2, TOEFL iBT 78), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Ced the avionics subsystem of the university rocketry team.
+    - Ooordinated the annual departmental technical symposium.

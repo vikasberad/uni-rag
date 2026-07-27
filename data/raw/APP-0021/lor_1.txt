@@ -1,10 +1,26 @@
-Letter of Recommendation
+02 November 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Robotics program. As their Professor, I consider them one of the top 5% of students I have taught. They demonstrated particular aptitude in MLOps, notably in a project involving whiteboard mission-critical systems. Their analytical writing and initiative were exceptional.
+Subject: Letter of Recommendation for Patricia Anderson
 
-I recommend them without reservation.
+Dear Members of the Admissions Committee,
 
+It is a distinct pleasure to write this letter of recommendation for Patricia Anderson as they apply for admission to the MSc Computer Science at the University of Stuttgart. As a Professor of Electrical Engineering at West Sarah College of Engineering, I have interacted with many promising students over the past 12 years; Patricia Anderson has consistently been a solid, dependable and hardworking student within the top quarter of their cohort. I have known them for 4 years, during which time they took my courses in Machine Learning Laboratory and Web Technologies.
+
+Academically, Patricia Anderson combines sound analytical skills with steady diligence. While not always the first to volunteer an answer, their submitted work was consistently thorough, well-structured and delivered on time, and their capstone project earned a very respectable grade. For their final-year assignment they worked on a project titled "Natural Language Processing approaches to monetize e-business mindshare", which investigated how natural language processing techniques can be applied in a practical engineering context. Their ability to survey the literature, formulate a clear hypothesis and execute a sound methodology left a lasting impression on the examination committee.
+
+Beyond individual academic achievement, Patricia Anderson worked constructively in group settings and could be relied upon to complete their share of shared projects to a good standard. With guidance, they steadily improved their presentation and scientific writing skills over the terms I supervised them.
+
+On a personal level, Patricia Anderson is a mature and motivated individual who handles heavy academic workloads and unexpected setbacks with a calm, positive demeanor. They participate actively in departmental activities and show a genuine willingness to give back to the academic community. I am confident that they possess the intellectual capacity, work ethic and character necessary to thrive in your rigorous, English-taught program and to make meaningful contributions to your university.
+
+Therefore, I give Patricia Anderson my confident recommendation. Please feel free to contact me if you require any further information.
 Sincerely,
-Nicole Hamilton MD, Professor
+
+Krista Martinez
+Professor of Electrical Engineering
+West Sarah College of Engineering
+georgeweber@example.net | 690-601-0943x96907

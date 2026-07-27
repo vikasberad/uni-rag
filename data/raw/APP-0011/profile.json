@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0011",
-  "name": "David Douglas Jr.",
-  "email": "osbornejeffery@example.net",
-  "nationality": "Maldives",
-  "program": "MSc Data Science",
-  "undergrad_degree": "BSc Mathematics",
-  "undergrad_university": "Williamsbury University",
-  "gpa": 2.71,
-  "gpa_scale": 4.0,
-  "ielts": 7.4,
-  "gre_quant": 150,
-  "interests": [
-    "MLOps",
-    "reinforcement learning"
-  ],
-  "work_experience_years": 3,
+  "name": "Juan Reyes",
+  "email": "michellehill@example.com",
+  "date_of_birth": "2000-06-17",
+  "nationality": "Nigeria",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Information Technology (INFOTECH)",
+  "intended_specialization": "Computer Hardware/Software Engineering",
+  "undergrad_degree": "BE Electronics & Telecommunication",
+  "undergrad_university": "Loriport University of Technology",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2024,
+  "cgpa": 8.53,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 1.88,
+  "english_test": "IELTS",
+  "english_score": 7.5,
+  "gre_quant": 156,
+  "work_experience_years": 2,
+  "internships": 2,
   "publications": 0,
-  "_strength": "weak"
+  "interests": [
+    "IoT platforms",
+    "real-time systems"
+  ],
+  "_strength": "strong"
 }

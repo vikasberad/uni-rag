@@ -1,11 +1,90 @@
-Official Transcript — Port Nicoleshire University
-Degree: BSc Mathematics   Cumulative GPA: 3.56/4.0
+STEVETOWN UNIVERSITY OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Leon Reyes
+Degree            : BSc Information Technology (4-year program)
+Enrollment Number : 744562435
+Period of Study   : 2018 - 2022
+Medium of Instruction: English
 
-  Data Structures              A-
-  Discrete Mathematics         A
-  Algorithms                   B+
-  Computer Networks            A-
-  Deep Learning                A
-  Databases                    A
-  Linear Algebra               A
-  Operating Systems            A-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN1848    Engineering Mathematics I                       3     B+    PASS
+IN1876    Basic Electrical Engineering                    2      B    PASS
+IN1324    Fundamentals of Programming I                   2      A    PASS
+IN1200    Fundamentals of Programming II                  2     B+    PASS
+IN1460    Workshop Practices                              2     A+    PASS
+          Semester GPA                                        7.36
+
+SEMESTER 2  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN2266    Engineering Mathematics II                      3     A+    PASS
+IN2519    Engineering Physics                             3      A    PASS
+IN2297    Engineering Graphics                            3     A+    PASS
+          Semester GPA                                        8.67
+
+SEMESTER 3  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN3709    Integrated Circuits                             2      A    PASS
+IN3606    Electronic Devices & Circuits                   3     B+    PASS
+IN3193    Signals & Systems                               3      B    PASS
+IN3724    Electromagnetics                                2     B+    PASS
+IN3865    Electrical Measurements & Instrumentation       3      A    PASS
+IN3512    Machine Learning Laboratory                     4     B+    PASS
+IN3817    Human Behaviour                                 4     B+    PASS
+          Semester GPA                                        7.10
+
+SEMESTER 4  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN4272    Database Management Systems                     4     A+    PASS
+IN4931    Object Oriented Programming                     3      B    PASS
+IN4879    Analog Communication                            4     A+    PASS
+IN4900    Cyber Crime and Law                             4     B+    PASS
+          Semester GPA                                        7.87
+
+SEMESTER 5  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN5279    Microcontrollers                                3     A+    PASS
+IN5929    Operating Systems                               3     B+    PASS
+IN5767    Programming Laboratory                          2      B    PASS
+          Semester GPA                                        7.50
+
+SEMESTER 6  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN6526    Embedded Systems & RTOS                         4      A    PASS
+IN6305    Distributed Computing                           3      A    PASS
+IN6448    Power Electronics                               4     B+    PASS
+IN6269    Microwave Engineering                           4     B+    PASS
+IN6600    Digital Signal Processing                       3      B    PASS
+IN6304    Electronics Laboratory                          2      A    PASS
+IN6982    Technical Communication                         3     B+    PASS
+          Semester GPA                                        7.26
+
+SEMESTER 7  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN7850    Power Systems                                   3      B    PASS
+IN7995    Machine Learning                                4     B+    PASS
+IN7736    Mobile Communication                            3     A+    PASS
+IN7979    Advanced Processors                             3      A    PASS
+          Semester GPA                                        7.46
+
+SEMESTER 8  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN8560    Artificial Intelligence                         4      A    PASS
+IN8722    Digital Communication                           2      B    PASS
+          Semester GPA                                        7.33
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 106
+CUMULATIVE GPA (CGPA): 7.65 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.41
+
+Date of Issue: 2022-11-04
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

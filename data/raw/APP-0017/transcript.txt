@@ -1,11 +1,90 @@
-Official Transcript — Port Jaredborough University
-Degree: BSc Computer Science   Cumulative GPA: 2.58/4.0
+WEST NATHAN COLLEGE OF ENGINEERING
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Mrs. Maria Williams
+Degree            : BE Computer Engineering (4-year program)
+Enrollment Number : 499715775
+Period of Study   : 2017 - 2021
+Medium of Instruction: English
 
-  Compilers                    B
-  Algorithms                   B-
-  Software Engineering         B-
-  Linear Algebra               C+
-  Computer Networks            B
-  Data Structures              B
-  Operating Systems            B
-  Discrete Mathematics         B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS1507    Fundamentals of Programming II                  4      A    PASS
+CS1979    Engineering Graphics                            3     B+    PASS
+CS1819    Engineering Physics                             3     A+    PASS
+CS1102    Engineering Chemistry                           4      B    PASS
+CS1214    Basic Electrical Engineering                    2     B+    PASS
+CS1442    Road Safety Management                          3     A+    PASS
+          Semester GPA                                        7.63
+
+SEMESTER 2  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS2717    Engineering Mathematics I                       3     B+    PASS
+CS2707    Engineering Mechanics                           2     B+    PASS
+CS2591    Human Behaviour                                 3      A    PASS
+          Semester GPA                                        7.38
+
+SEMESTER 3  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS3359    Computer Organization                           3      A    PASS
+CS3664    Web Technologies                                4     B+    PASS
+CS3164    Compiler Design                                 4     A+    PASS
+CS3122    Object Oriented Programming                     4      A    PASS
+CS3246    Theory of Computation                           2      A    PASS
+CS3588    Programming Laboratory                          4      B    PASS
+          Semester GPA                                        7.62
+
+SEMESTER 4  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS4513    Operating Systems                               2     A+    PASS
+CS4908    Database Management Systems                     2      B    PASS
+CS4775    Data Structures and Algorithms                  3      B    PASS
+CS4937    Software Engineering                            4      A    PASS
+CS4433    Signal Processing & Communication Lab           4      B    PASS
+CS4964    Employability Skill Development                 4      B    PASS
+          Semester GPA                                        6.74
+
+SEMESTER 5  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS5521    Computer Networks                               3      B    PASS
+CS5585    Electronics Laboratory                          4      B    PASS
+          Semester GPA                                        6.00
+
+SEMESTER 6  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS6360    Data Mining                                     3      B    PASS
+CS6956    High Performance Computing                      2     A+    PASS
+CS6184    Mobile Application Development                  3     A+    PASS
+CS6961    Cloud Computing                                 2     A+    PASS
+CS6239    Artificial Intelligence                         4     B+    PASS
+CS6901    VLSI & Embedded Lab                             4     A+    PASS
+          Semester GPA                                        8.06
+
+SEMESTER 7  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS7939    Natural Language Processing                     4     B+    PASS
+CS7825    Distributed Computing                           4     A+    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 8  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS8294    Machine Learning                                3     B+    PASS
+CS8456    Information Security                            4     B+    PASS
+CS8805    Big Data Analytics                              3      B    PASS
+CS8450    Microcontroller & Mechatronics Lab              3     A+    PASS
+          Semester GPA                                        7.23
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 113
+CUMULATIVE GPA (CGPA): 8.20 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.08
+
+Date of Issue: 2021-07-02
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

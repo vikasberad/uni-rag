@@ -1,11 +1,90 @@
-Official Transcript — Port Thomasborough University
-Degree: BEng Electrical Engineering   Cumulative GPA: 3.24/4.0
+NEW KELLYBERG UNIVERSITY OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Elizabeth Ward
+Degree            : BSc Computer Science (4-year program)
+Enrollment Number : 111474862
+Period of Study   : 2016 - 2020
+Medium of Instruction: English
 
-  Operating Systems            A-
-  Discrete Mathematics         A-
-  Software Engineering         B-
-  Compilers                    B
-  Computer Networks            A-
-  Algorithms                   B+
-  Probability & Statistics     B
-  Deep Learning                B
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2016)
+Code      Module Title                                   Cr  Grade  Status
+IN1850    Engineering Physics                             2      A    PASS
+IN1501    Engineering Graphics                            4     A+    PASS
+IN1844    Fundamentals of Programming II                  3      B    PASS
+IN1790    Workshop Practices                              4      A    PASS
+IN1276    Engineering Chemistry                           3     B+    PASS
+          Semester GPA                                        7.69
+
+SEMESTER 2  (Summer 2016)
+Code      Module Title                                   Cr  Grade  Status
+IN2790    Fundamentals of Programming I                   4     B+    PASS
+IN2589    Engineering Mathematics I                       3     A+    PASS
+          Semester GPA                                        7.86
+
+SEMESTER 3  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+IN3409    Database Management Systems                     3      A    PASS
+IN3861    Analog Communication                            4     B+    PASS
+IN3826    Electrical Measurements & Instrumentation       3     A+    PASS
+IN3319    Computer Organization                           4     A+    PASS
+IN3978    Electronic Devices & Circuits                   2     A+    PASS
+IN3770    Machine Learning Laboratory                     4     A+    PASS
+          Semester GPA                                        8.45
+
+SEMESTER 4  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+IN4983    Microcontrollers                                4      A    PASS
+IN4977    Object Oriented Programming                     4     B+    PASS
+IN4463    Operating Systems                               4      A    PASS
+IN4378    Digital Electronics                             3      B    PASS
+IN4996    Project Stage II                                4     A+    PASS
+          Semester GPA                                        7.68
+
+SEMESTER 5  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN5519    Electromagnetics                                2      B    PASS
+IN5894    Discrete Mathematics                            4      B    PASS
+IN5240    Signals & Systems                               4      A    PASS
+IN5423    Programming Laboratory                          4      A    PASS
+IN5409    Team Building, Leadership & Fitness             4     B+    PASS
+          Semester GPA                                        7.11
+
+SEMESTER 6  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN6119    Embedded Systems & RTOS                         4      A    PASS
+IN6815    Digital Signal Processing                       4      B    PASS
+IN6910    Wireless Sensor Networks                        2     B+    PASS
+IN6781    Microwave Engineering                           2      B    PASS
+IN6426    Artificial Intelligence                         4     B+    PASS
+IN6330    Signal Processing & Communication Lab           3      A    PASS
+IN6551    Cyber Crime and Law                             3      B    PASS
+          Semester GPA                                        6.91
+
+SEMESTER 7  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN7191    Digital Communication                           4     B+    PASS
+IN7935    Machine Learning                                4      B    PASS
+IN7462    Distributed Computing                           4     B+    PASS
+IN7792    VLSI Design & Technology                        3     B+    PASS
+          Semester GPA                                        6.73
+
+SEMESTER 8  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN8650    Cloud Computing                                 4      B    PASS
+          Semester GPA                                        6.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 121
+CUMULATIVE GPA (CGPA): 7.91 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.25
+
+Date of Issue: 2020-10-24
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

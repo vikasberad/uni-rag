@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0003",
-  "name": "Maria Thomas",
-  "email": "johnhoffman@example.com",
-  "nationality": "San Marino",
-  "program": "MSc Data Science",
-  "undergrad_degree": "BSc Computer Science",
-  "undergrad_university": "Hurstfurt University",
-  "gpa": 3.14,
-  "gpa_scale": 4.0,
-  "ielts": 7.8,
-  "gre_quant": 170,
-  "interests": [
-    "reinforcement learning",
-    "recommender systems"
-  ],
+  "name": "Jose Ramirez",
+  "email": "ilewis@example.net",
+  "date_of_birth": "2005-07-12",
+  "nationality": "Brazil",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Computer Science",
+  "intended_specialization": "Visual Computing",
+  "undergrad_degree": "BE Computer Engineering",
+  "undergrad_university": "Sanchezfort Technical University",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2023,
+  "cgpa": 8.29,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 2.03,
+  "english_test": "IELTS",
+  "english_score": 7.0,
+  "gre_quant": null,
   "work_experience_years": 1,
+  "internships": 2,
   "publications": 0,
+  "interests": [
+    "computer vision",
+    "natural language processing"
+  ],
   "_strength": "average"
 }

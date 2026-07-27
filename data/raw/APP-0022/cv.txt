@@ -1,11 +1,54 @@
-Curriculum Vitae
+DOUGLAS HARPER
+amitchell@example.org | +1-299-330-9728x9623 | North Scott, Brazil
+Date of Birth: 2001-03-27 | LinkedIn: linkedin.com/in/douglas-harper
 
-Education
-- BSc Mathematics, Vaughnmouth University — GPA 3.62/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Computer Engineering graduate (2021) with a focus on AI safety and software architecture, holding a CGPA of 8.22/10 (German equivalent 2.07). Experienced through 3 internship(s) and 4 year(s) of professional work, with hands-on skills in Linux, Docker, Kubernetes, Java. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Artificial Intelligence).
 
-Skills
-- TensorFlow, AWS, Git, SQL, Docker, Spark
+EDUCATION
+----------------------------------------------------------------------
+2017 - 2021   BE Computer Engineering
+                West Jessica State University
+                CGPA: 8.22/10 | German equivalent grade: 2.07
 
-Projects
-- User-friendly modular forecast: revolutionize bleeding-edge metrics using Git
-- Multi-channeled directional productivity: aggregate dot-com methodologies using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+12/2025 - 03/2026   Software Engineering Intern, Hernandez-Vaughn
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Built monitoring dashboards for continuous data acquisition.
+
+06/2024 - 03/2025   Data Engineering Intern, Shaw-Carr
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Improved processing performance through profiling and optimization.
+
+07/2024 - 10/2024   R&D Intern - Machine Learning, Salas-Fitzgerald
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
+
+03/2024 - 12/2024   R&D Intern - Machine Learning, Thornton PLC
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Containerized the workflow for reproducible deployment.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Ai Safety-Based Prediction System
+    - Designed and implemented an end-to-end prototype using PyTorch, Linux, SQL.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Smart Campus IoT Platform
+    - Team project applying software architecture concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Linux, Docker, Kubernetes, Java, Git, REST APIs, Python, SQL
+Domains             : AI safety, software architecture, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Sed a student chapter organizing guest lectures with industry professionals.
+    - Ced the avionics subsystem of the university rocketry team.

@@ -1,12 +1,49 @@
-Curriculum Vitae
+LANCE HEBERT
+justin88@example.com | 001-387-383-3918x785 | Port Amyhaven, Colombia
+Date of Birth: 2005-02-18 | LinkedIn: linkedin.com/in/lance-hebert
 
-Education
-- BSc Computer Science, Lake Bryan University — GPA 2.62/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Computer Science graduate (2024) with a focus on hardware-software co-design and real-time systems, holding a CGPA of 7.84/10 (German equivalent 2.3). Experienced through 2 internship(s) and 2 year(s) of professional work, with hands-on skills in Embedded C, FreeRTOS, Docker, MATLAB. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Micro- and Optoelectronics).
 
-Skills
-- SQL, PyTorch, C++, Git, AWS, Python
+EDUCATION
+----------------------------------------------------------------------
+2020 - 2024   BSc Computer Science
+                Port William State University
+                CGPA: 7.84/10 | German equivalent grade: 2.3
 
-Projects
-- User-friendly upward-trending collaboration: matrix next-generation experiences using C++
-- Cross-platform mobile pricing structure: deploy efficient paradigms using SQL
-- Team-oriented holistic data-warehouse: grow visionary action-items using Git
+EXPERIENCE
+----------------------------------------------------------------------
+04/2025 - 04/2026   Hardware Design Intern, Armstrong and Sons
+    - Designed PCBs and validated sensor interfaces in lab conditions.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
+
+08/2024 - 02/2025   Embedded Systems Intern, Murphy PLC
+    - Wrote Embedded C firmware for microcontrollers with CAN and SPI drivers.
+    - Documented modules and validation procedures following engineering standards.
+    - Validated the solution against real datasets from production systems.
+
+09/2024 - 12/2024   Software Engineering Intern, Wilson-Harris
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Hardware-Software Co-Design-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using FreeRTOS, C++, OPC-UA.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis; findings contributed to 1 publication(s).
+Gesture-Controlled Embedded Interface
+    - Team project applying real-time systems concepts; responsible for firmware and hardware bring-up.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Embedded C, FreeRTOS, Docker, MATLAB, OPC-UA, C, C++, Python
+Domains             : hardware-software co-design, real-time systems, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.5), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Voordinated the annual departmental technical symposium.
+    - Ced a student chapter organizing guest lectures with industry professionals.

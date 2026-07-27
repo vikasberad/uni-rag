@@ -1,15 +1,54 @@
-Curriculum Vitae
+TAMMY GONZALES
+sbarker@example.com | +1-570-434-8247x7109 | Andreaside, Turkey
+Date of Birth: 1999-11-20 | LinkedIn: linkedin.com/in/tammy-gonzales
 
-Education
-- BEng Electrical Engineering, East Robert University — GPA 2.89/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Computer Engineering graduate (2020) with a focus on natural language processing and AI safety, holding a CGPA of 8.04/10 (German equivalent 2.18). Experienced through 3 internship(s) and 4 year(s) of professional work, with hands-on skills in Kubernetes, REST APIs, Git, PyTorch. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Distributed Systems).
 
-Skills
-- PyTorch, TensorFlow, Spark, Linux, AWS, Docker
+EDUCATION
+----------------------------------------------------------------------
+2016 - 2020   BE Computer Engineering
+                Kimton College of Engineering
+                CGPA: 8.04/10 | German equivalent grade: 2.18
 
-Projects
-- Configurable executive migration: repurpose open-source infrastructures using Linux
-- Versatile disintermediate service-desk: monetize magnetic solutions using Docker
-- Digitized 4thgeneration analyzer: incentivize collaborative e-business using Docker
+EXPERIENCE
+----------------------------------------------------------------------
+03/2026 - 12/2026   Working Student - IoT Analytics, Davis-Gay
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Validated the solution against real datasets from production systems.
 
-Experience
-- Software Engineer, Gibson Ltd (3 yr): maximize dynamic architectures
+11/2025 - 02/2026   Hardware Design Intern, Murray Inc
+    - Designed PCBs and validated sensor interfaces in lab conditions.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Built monitoring dashboards for continuous data acquisition.
+
+01/2025 - 10/2025   Data Engineering Intern, Collier, Jimenez and Moran
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Validated the solution against real datasets from production systems.
+
+09/2024 - 06/2025   Backend Developer Intern, Thornton, Perry and Olson
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Natural Language Processing-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Python, Java, C++.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Real-Time Anomaly Detection Pipeline
+    - Team project applying AI safety concepts; responsible for firmware and hardware bring-up.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Kubernetes, REST APIs, Git, PyTorch, Python, Linux, C++, Docker
+Domains             : natural language processing, AI safety, software engineering practices (Git, code review, CI)
+Languages           : English (C1, TOEFL iBT 91), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Led a student chapter organizing guest lectures with industry professionals.
+    - Colunteered as a coding mentor for first-year students.

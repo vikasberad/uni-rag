@@ -1,11 +1,87 @@
-Official Transcript — West Alexis University
-Degree: BSc Computer Science   Cumulative GPA: 2.85/4.0
+CHRISTOPHERVILLE TECHNICAL UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Donna Sullivan
+Degree            : BE Electronics & Telecommunication (4-year program)
+Enrollment Number : 124544417
+Period of Study   : 2017 - 2021
+Medium of Instruction: English
 
-  Probability & Statistics     C+
-  Compilers                    C+
-  Linear Algebra               B
-  Algorithms                   B
-  Machine Learning             B
-  Data Structures              B
-  Operating Systems            B
-  Computer Networks            C+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+IN1842    Fundamentals of Programming II                  4      A    PASS
+IN1197    Engineering Graphics                            4     B+    PASS
+IN1419    Fundamentals of Programming I                   3      C    PASS
+IN1555    Basic Electrical Engineering                    3      C    PASS
+IN1147    Engineering Mathematics II                      3      A    PASS
+IN1457    Professional Ethics                             4      B    PASS
+          Semester GPA                                        6.57
+
+SEMESTER 2  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+IN2560    Engineering Mathematics I                       4     B+    PASS
+IN2730    Workshop Practices                              2     B+    PASS
+IN2452    Engineering Mechanics                           3      A    PASS
+          Semester GPA                                        7.33
+
+SEMESTER 3  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN3235    Signals & Systems                               3     B+    PASS
+IN3472    Discrete Mathematics                            4      C    PASS
+IN3543    Microcontrollers                                4      B    PASS
+IN3369    Object Oriented Programming                     3     B+    PASS
+IN3486    Network Analysis                                4      A    PASS
+IN3984    Signal Processing & Communication Lab           4     B+    PASS
+          Semester GPA                                        6.64
+
+SEMESTER 4  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN4684    Electromagnetics                                4      C    PASS
+IN4774    Data Structures and Algorithms                  3      C    PASS
+IN4958    Computer Organization                           3     B+    PASS
+          Semester GPA                                        5.60
+
+SEMESTER 5  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN5959    Database Management Systems                     3      B    PASS
+IN5490    Machine Learning Laboratory                     3     B+    PASS
+          Semester GPA                                        6.50
+
+SEMESTER 6  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN6317    Power Electronics                               4      B    PASS
+IN6626    Microwave Engineering                           3      C    PASS
+IN6874    Advanced Processors                             4      A    PASS
+IN6548    Machine Learning                                2     B+    PASS
+IN6321    Artificial Intelligence                         4     B+    PASS
+IN6941    Technical Communication                         4      C    PASS
+          Semester GPA                                        6.33
+
+SEMESTER 7  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN7368    Power Systems                                   4     B+    PASS
+IN7687    Cyber Crime and Law                             3      C    PASS
+          Semester GPA                                        6.14
+
+SEMESTER 8  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN8700    Digital Communication                           3      B    PASS
+IN8789    Mechatronics                                    3      B    PASS
+IN8649    Cloud Computing                                 3      A    PASS
+IN8825    Employability Skill Development                 2     B+    PASS
+          Semester GPA                                        6.73
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 107
+CUMULATIVE GPA (CGPA): 6.71 / 10.00
+CLASSIFICATION       : SECOND CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.97
+
+Date of Issue: 2021-08-06
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

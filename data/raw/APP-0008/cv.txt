@@ -1,13 +1,49 @@
-Curriculum Vitae
+BARBARA RIGGS
+reedross@example.com | +1-695-578-8568x55744 | Lake Jamesville, Vietnam
+Date of Birth: 1998-02-27 | LinkedIn: linkedin.com/in/barbara-riggs
 
-Education
-- BEng Electrical Engineering, Bradleymouth University — GPA 3.21/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BEng Electrical Engineering graduate (2024) with a focus on IoT platforms and hardware-software co-design, holding a CGPA of 6.01/10 (German equivalent 3.39). Experienced through 2 internship(s) and 1 year(s) of professional work, with hands-on skills in MQTT, Python, Docker, FreeRTOS. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Communications).
 
-Skills
-- Docker, C++, AWS, Python, Git, PyTorch
+EDUCATION
+----------------------------------------------------------------------
+2020 - 2024   BEng Electrical Engineering
+                Alexanderchester University of Technology
+                CGPA: 6.01/10 | German equivalent grade: 3.39
 
-Projects
-- Balanced fault-tolerant hierarchy: productize revolutionary convergence using Docker
-- Expanded systemic encryption: repurpose sticky convergence using C++
-- Vision-oriented next generation installation: re-intermediate B2C action-items using Python
-- Diverse context-sensitive installation: utilize virtual supply-chains using AWS
+EXPERIENCE
+----------------------------------------------------------------------
+02/2025 - 02/2026   Working Student - IoT Analytics, Herrera, Gill and Lopez
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Containerized the workflow for reproducible deployment.
+
+07/2025 - 10/2025   Data Engineering Intern, Rodgers LLC
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
+
+10/2024 - 01/2025   Working Student - IoT Analytics, Lawrence, Wolf and Carlson
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Iot Platforms-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Docker, Git, MQTT.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Real-Time Anomaly Detection Pipeline
+    - Team project applying hardware-software co-design concepts; responsible for model training and deployment.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : MQTT, Python, Docker, FreeRTOS, MATLAB, InfluxDB, Embedded C, Linux
+Domains             : IoT platforms, hardware-software co-design, software engineering practices (Git, code review, CI)
+Languages           : English (B2, TOEFL iBT 86), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Crganized technical workshops and hackathons as an IEEE student branch coordinator.
+    - Sed the avionics subsystem of the university rocketry team.

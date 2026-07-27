@@ -1,10 +1,26 @@
-Letter of Recommendation
+30 December 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Electrical Engineering
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Robotics program. As their Professor, I consider them a solid and dependable student. They demonstrated particular aptitude in knowledge graphs, notably in a project involving re-intermediate value-added web services. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Lauren Dominguez
 
-I recommend them with confidence.
+Dear Members of the Admissions Committee,
 
+It is a distinct pleasure to write this letter of recommendation for Lauren Dominguez as they apply for admission to the MSc Electrical Engineering at the University of Stuttgart. As a Professor of Computer Science at Castanedachester Technical University, I have interacted with many promising students over the past 17 years; Lauren Dominguez has consistently been a solid, dependable and hardworking student within the top quarter of their cohort. I have known them for 4 years, during which time they took my courses in Networks Laboratory and Electrical Measurements & Instrumentation.
+
+Academically, Lauren Dominguez combines sound analytical skills with steady diligence. While not always the first to volunteer an answer, their submitted work was consistently thorough, well-structured and delivered on time, and their capstone project earned a very respectable grade. For their final-year assignment they worked on a project titled "Control Systems approaches to repurpose wireless communities", which investigated how control systems techniques can be applied in a practical engineering context. Their ability to survey the literature, formulate a clear hypothesis and execute a sound methodology left a lasting impression on the examination committee.
+
+Beyond individual academic achievement, Lauren Dominguez worked constructively in group settings and could be relied upon to complete their share of shared projects to a good standard. With guidance, they steadily improved their presentation and scientific writing skills over the terms I supervised them.
+
+On a personal level, Lauren Dominguez is a mature and motivated individual who handles heavy academic workloads and unexpected setbacks with a calm, positive demeanor. They participate actively in departmental activities and show a genuine willingness to give back to the academic community. I am confident that they possess the intellectual capacity, work ethic and character necessary to thrive in your rigorous, English-taught program and to make meaningful contributions to your university.
+
+Therefore, I give Lauren Dominguez my confident recommendation. Please feel free to contact me if you require any further information.
 Sincerely,
-Roy Warner, Professor
+
+John Price
+Professor of Computer Science
+Castanedachester Technical University
+tinaferguson@example.com | 001-690-816-2720

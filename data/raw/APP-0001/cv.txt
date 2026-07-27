@@ -1,15 +1,44 @@
-Curriculum Vitae
+ALLISON HILL
+donaldgarcia@example.net | +1-528-232-7648x350 | Richardland, Iran
+Date of Birth: 2005-02-27 | LinkedIn: linkedin.com/in/allison-hill
 
-Education
-- BSc Mathematics, New Roberttown University — GPA 3.48/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Computer Engineering graduate (2020) with a focus on machine learning and software architecture, holding a CGPA of 8.09/10 (German equivalent 2.15). Experienced through 1 internship(s) and 4 year(s) of professional work, with hands-on skills in C++, Linux, Git, REST APIs. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Artificial Intelligence).
 
-Skills
-- TensorFlow, Git, C++, Spark, PyTorch, Linux
+EDUCATION
+----------------------------------------------------------------------
+2016 - 2020   BE Computer Engineering
+                New Roberttown Technical University
+                CGPA: 8.09/10 | German equivalent grade: 2.15
 
-Projects
-- Mandatory even-keeled collaboration: architect cross-platform platforms using TensorFlow
-- Cross-group homogeneous attitude: seize cross-media metrics using TensorFlow
-- Fundamental 6thgeneration superstructure: target 24/7 architectures using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+08/2025 - 02/2026   Backend Developer Intern, Gentry PLC
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
 
-Experience
-- Software Engineer, Arnold Ltd (1 yr): re-intermediate bricks-and-clicks networks
+10/2024 - 10/2025   R&D Intern - Machine Learning, Edwards, Rios and Foster
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Improved processing performance through profiling and optimization.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Machine Learning-Based Prediction System
+    - Designed and implemented an end-to-end prototype using C++, Python, Linux.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Gesture-Controlled Embedded Interface
+    - Team project applying software architecture concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : C++, Linux, Git, REST APIs, SQL, Docker, TensorFlow, Kubernetes
+Domains             : machine learning, software architecture, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 6.5), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Ced the avionics subsystem of the university rocketry team.
+    - Ced the avionics subsystem of the university rocketry team.

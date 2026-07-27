@@ -1,10 +1,26 @@
-Letter of Recommendation
+04 November 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Information Technology (INFOTECH)
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Artificial Intelligence program. As their Engineering Manager, I consider them a solid and dependable student. They demonstrated particular aptitude in computer vision, notably in a project involving expedite innovative methodologies. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Lisa Turner
 
-I recommend them with confidence.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Lisa Turner for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. In my capacity as R&D Group Leader at Osborne and Sons, I directly supervised Lisa Turner for 6 months during their engagement as Software Engineering Intern in our organization.
+
+During this period, Lisa Turner developed REST APIs and data pipelines using Python and SQL, working primarily with MQTT, Git, FreeRTOS. In terms of delivery and impact, they consistently delivered beyond the scope of their role. They independently identified process improvements, and one of their contributions was adopted by the whole team as standard practice. Their code reviews were of a quality I would expect from engineers with several years of experience.
+
+What distinguished Lisa Turner in a professional environment was their combination of technical curiosity and dependability. They became a person colleagues actively sought out for help, and bridged communication between our software and hardware groups with notable ease. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Information Technology (INFOTECH) is demanding and strongly research-oriented. Based on my direct observation of Lisa Turner's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Lisa Turner without any reservation, and I would rehire them immediately. Please do not hesitate to contact me for any further details.
 Sincerely,
-Angela Lopez, Engineering Manager
+
+Charles Watts
+R&D Group Leader
+Osborne and Sons
+pwilliams@example.org | 927.488.9579x868

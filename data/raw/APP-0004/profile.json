@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0004",
-  "name": "Sheila Evans",
-  "email": "ericfarmer@example.net",
-  "nationality": "Zimbabwe",
+  "name": "Krystal Stewart",
+  "email": "james53@example.com",
+  "date_of_birth": "2000-12-08",
+  "nationality": "Indonesia",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
   "program": "MSc Computer Science",
-  "undergrad_degree": "BSc Mathematics",
-  "undergrad_university": "New Mariotown University",
-  "gpa": 3.05,
-  "gpa_scale": 4.0,
-  "ielts": 6.0,
-  "gre_quant": 157,
-  "interests": [
-    "AI safety",
-    "distributed systems"
-  ],
-  "work_experience_years": 1,
+  "intended_specialization": "Distributed Systems",
+  "undergrad_degree": "BSc Information Technology",
+  "undergrad_university": "Lake Debbie Institute of Technology",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2023,
+  "cgpa": 6.56,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 3.06,
+  "english_test": "TOEFL iBT",
+  "english_score": 78,
+  "gre_quant": null,
+  "work_experience_years": 3,
+  "internships": 0,
   "publications": 0,
-  "_strength": "average"
+  "interests": [
+    "natural language processing",
+    "software architecture"
+  ],
+  "_strength": "weak"
 }

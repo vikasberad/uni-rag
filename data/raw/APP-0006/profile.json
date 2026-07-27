@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0006",
-  "name": "Mrs. Rachel Gibson",
-  "email": "uhorton@example.net",
-  "nationality": "Panama",
-  "program": "MSc Artificial Intelligence",
-  "undergrad_degree": "BSc Mathematics",
-  "undergrad_university": "Mooreport University",
-  "gpa": 3.1,
-  "gpa_scale": 4.0,
-  "ielts": 6.5,
-  "gre_quant": 152,
-  "interests": [
-    "computer vision",
-    "edge computing"
-  ],
+  "name": "Lisa Turner",
+  "email": "torresjason@example.net",
+  "date_of_birth": "2002-09-24",
+  "nationality": "Iran",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Information Technology (INFOTECH)",
+  "intended_specialization": "Computer Hardware/Software Engineering",
+  "undergrad_degree": "BEng Electrical Engineering",
+  "undergrad_university": "Stevenmouth Institute of Technology",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2022,
+  "cgpa": 8.51,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 1.89,
+  "english_test": "TOEFL iBT",
+  "english_score": 107,
+  "gre_quant": 161,
   "work_experience_years": 3,
+  "internships": 3,
   "publications": 0,
-  "_strength": "average"
+  "interests": [
+    "IoT platforms",
+    "embedded systems"
+  ],
+  "_strength": "strong"
 }

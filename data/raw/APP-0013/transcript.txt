@@ -1,11 +1,85 @@
-Official Transcript — South Andrewside University
-Degree: BSc Physics   Cumulative GPA: 3.58/4.0
+BRENDASTAD COLLEGE OF ENGINEERING
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Ann Foster
+Degree            : BSc Information Technology (4-year program)
+Enrollment Number : 916986301
+Period of Study   : 2018 - 2022
+Medium of Instruction: English
 
-  Machine Learning             A-
-  Linear Algebra               A-
-  Software Engineering         A-
-  Probability & Statistics     A
-  Operating Systems            B+
-  Algorithms                   A-
-  Discrete Mathematics         A-
-  Computer Networks            B+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS1792    Fundamentals of Programming I                   3      A    PASS
+CS1821    Engineering Physics                             4      A    PASS
+CS1737    Engineering Mathematics I                       2     A+    PASS
+CS1972    Engineering Chemistry                           4     A+    PASS
+CS1642    Engineering Mathematics II                      4     A+    PASS
+          Semester GPA                                        8.59
+
+SEMESTER 2  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS2862    Basic Electrical Engineering                    4      O    PASS
+CS2940    Workshop Practices                              3     A+    PASS
+          Semester GPA                                        9.57
+
+SEMESTER 3  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS3360    Compiler Design                                 4      O    PASS
+CS3530    Web Technologies                                2      O    PASS
+CS3363    Software Engineering                            3      A    PASS
+CS3209    Object Oriented Programming                     4      A    PASS
+CS3724    Design and Analysis of Algorithms               2      A    PASS
+          Semester GPA                                        8.80
+
+SEMESTER 4  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS4799    Data Structures and Algorithms                  3     A+    PASS
+CS4450    Theory of Computation                           3      O    PASS
+CS4537    VLSI & Embedded Lab                             3     A+    PASS
+          Semester GPA                                        9.33
+
+SEMESTER 5  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS5133    Operating Systems                               3      A    PASS
+CS5636    Database Management Systems                     3      O    PASS
+CS5371    Networks Laboratory                             4      O    PASS
+CS5348    Employability Skill Development                 4      O    PASS
+          Semester GPA                                        9.57
+
+SEMESTER 6  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS6836    Information Security                            4     A+    PASS
+CS6330    Data Mining                                     4      A    PASS
+CS6473    Machine Learning                                3      O    PASS
+CS6692    High Performance Computing                      4      O    PASS
+CS6692    Mobile Application Development                  4      O    PASS
+          Semester GPA                                        9.37
+
+SEMESTER 7  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS7364    Distributed Computing                           3      O    PASS
+CS7121    Artificial Intelligence                         2      O    PASS
+          Semester GPA                                       10.00
+
+SEMESTER 8  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS8412    Big Data Analytics                              2      A    PASS
+CS8734    Natural Language Processing                     3      O    PASS
+CS8979    Cloud Computing                                 3      A    PASS
+CS8643    Project Stage II                                4      A    PASS
+          Semester GPA                                        8.50
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 98
+CUMULATIVE GPA (CGPA): 8.78 / 10.00
+CLASSIFICATION       : FIRST CLASS WITH DISTINCTION
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 1.73
+
+Date of Issue: 2022-06-26
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

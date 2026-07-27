@@ -1,11 +1,86 @@
-Official Transcript — New Mariotown University
-Degree: BSc Mathematics   Cumulative GPA: 3.05/4.0
+LAKE DEBBIE INSTITUTE OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Krystal Stewart
+Degree            : BSc Information Technology (4-year program)
+Enrollment Number : 416681465
+Period of Study   : 2019 - 2023
+Medium of Instruction: English
 
-  Deep Learning                B
-  Probability & Statistics     B-
-  Discrete Mathematics         B
-  Operating Systems            B
-  Computer Networks            A-
-  Data Structures              A-
-  Software Engineering         B
-  Algorithms                   B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS1562    Workshop Practices                              4     B+    PASS
+CS1795    Engineering Chemistry                           2      C    PASS
+CS1430    Engineering Mathematics I                       4      B    PASS
+CS1547    Engineering Mathematics II                      4      B    PASS
+CS1824    Fundamentals of Programming I                   3      A    PASS
+          Semester GPA                                        6.47
+
+SEMESTER 2  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS2199    Engineering Graphics                            4      A    PASS
+CS2225    Engineering Physics                             3      C    PASS
+CS2991    Fundamentals of Programming II                  4     B+    PASS
+          Semester GPA                                        6.82
+
+SEMESTER 3  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS3165    Software Engineering                            2     B+    PASS
+CS3139    Operating Systems                               3      B    PASS
+CS3746    Computer Networks                               3      A    PASS
+CS3833    Compiler Design                                 4     B+    PASS
+CS3983    Database Management Systems                     3      B    PASS
+CS3828    Employability Skill Development                 4      C    PASS
+          Semester GPA                                        6.42
+
+SEMESTER 4  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS4288    Theory of Computation                           2      B    PASS
+CS4661    Discrete Mathematics                            3     B+    PASS
+CS4651    Data Structures and Algorithms                  3      B    PASS
+CS4760    Machine Learning Laboratory                     4      B    PASS
+CS4338    Business Management                             2      B    PASS
+          Semester GPA                                        6.21
+
+SEMESTER 5  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS5466    Design and Analysis of Algorithms               2      A    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 6  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS6675    Machine Learning                                2     B+    PASS
+CS6729    Distributed Computing                           3      B    PASS
+CS6592    Mobile Application Development                  3      C    PASS
+CS6862    Data Mining                                     3      B    PASS
+CS6738    High Performance Computing                      3     B+    PASS
+CS6395    Signal Processing & Communication Lab           4     B+    PASS
+CS6646    Road Safety Management                          3      A    PASS
+          Semester GPA                                        6.57
+
+SEMESTER 7  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS7621    Project Stage I                                 4      A    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 8  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS8465    Big Data Analytics                              4     B+    PASS
+CS8264    Artificial Intelligence                         2      B    PASS
+CS8119    Natural Language Processing                     4     B+    PASS
+          Semester GPA                                        6.80
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 98
+CUMULATIVE GPA (CGPA): 6.56 / 10.00
+CLASSIFICATION       : SECOND CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 3.06
+
+Date of Issue: 2023-06-20
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

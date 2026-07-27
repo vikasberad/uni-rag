@@ -1,11 +1,91 @@
-Official Transcript — Bradleymouth University
-Degree: BEng Electrical Engineering   Cumulative GPA: 3.21/4.0
+ALEXANDERCHESTER UNIVERSITY OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Barbara Riggs
+Degree            : BEng Electrical Engineering (4-year program)
+Enrollment Number : 934328629
+Period of Study   : 2020 - 2024
+Medium of Instruction: English
 
-  Linear Algebra               B
-  Discrete Mathematics         B-
-  Data Structures              B
-  Software Engineering         B-
-  Deep Learning                B-
-  Machine Learning             B-
-  Computer Networks            B
-  Probability & Statistics     B+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN1436    Fundamentals of Programming II                  4      A    PASS
+IN1399    Engineering Mechanics                           4      A    PASS
+IN1367    Engineering Mathematics I                       3      C    PASS
+IN1903    Engineering Physics                             3      A    PASS
+IN1575    Engineering Mathematics II                      4      C    PASS
+          Semester GPA                                        6.83
+
+SEMESTER 2  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN2766    Basic Electrical Engineering                    3     B+    PASS
+IN2449    Fundamentals of Programming I                   4     B+    PASS
+IN2636    Engineering Graphics                            4      A    PASS
+IN2573    Business Management                             3      C    PASS
+          Semester GPA                                        6.86
+
+SEMESTER 3  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN3425    Object Oriented Programming                     3     B+    PASS
+IN3688    Data Structures and Algorithms                  4      C    PASS
+IN3133    Computer Organization                           4      B    PASS
+IN3171    Electrical Measurements & Instrumentation       2      B    PASS
+IN3898    Digital Electronics                             4      C    PASS
+IN3314    Machine Learning Laboratory                     4      C    PASS
+IN3520    Road Safety Management                          3     B+    PASS
+          Semester GPA                                        5.75
+
+SEMESTER 4  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN4573    Control Systems                                 2      B    PASS
+IN4898    Electromagnetics                                3      B    PASS
+IN4755    Microcontrollers                                2     B+    PASS
+IN4477    Programming Laboratory                          3      B    PASS
+          Semester GPA                                        6.20
+
+SEMESTER 5  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN5724    Network Analysis                                4      B    PASS
+IN5258    Discrete Mathematics                            2      B    PASS
+IN5570    Cyber Crime and Law                             4      A    PASS
+          Semester GPA                                        6.80
+
+SEMESTER 6  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN6835    Machine Learning                                2      A    PASS
+IN6399    Artificial Intelligence                         3      B    PASS
+IN6423    VLSI Design & Technology                        3     B+    PASS
+IN6105    Microcontroller & Mechatronics Lab              2      C    PASS
+          Semester GPA                                        6.50
+
+SEMESTER 7  (Winter 2023)
+Code      Module Title                                   Cr  Grade  Status
+IN7697    Mechatronics                                    4     B+    PASS
+IN7517    Power Systems                                   2      A    PASS
+IN7918    Wireless Sensor Networks                        3      C    PASS
+IN7821    VLSI & Embedded Lab                             3      C    PASS
+          Semester GPA                                        6.17
+
+SEMESTER 8  (Summer 2023)
+Code      Module Title                                   Cr  Grade  Status
+IN8350    Microwave Engineering                           3      B    PASS
+IN8124    Advanced Processors                             3      C    PASS
+IN8811    Power Electronics                               3      A    PASS
+IN8799    Project Stage I                                 2      A    PASS
+IN8649    Employability Skill Development                 2      A    PASS
+          Semester GPA                                        6.85
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 111
+CUMULATIVE GPA (CGPA): 6.01 / 10.00
+CLASSIFICATION       : SECOND CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 3.39
+
+Date of Issue: 2024-06-20
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

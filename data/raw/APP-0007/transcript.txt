@@ -1,11 +1,90 @@
-Official Transcript — New Joseph University
-Degree: BEng Electrical Engineering   Cumulative GPA: 3.39/4.0
+CASTANEDACHESTER TECHNICAL UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Lauren Dominguez
+Degree            : BEng Electrical Engineering (4-year program)
+Enrollment Number : 811285849
+Period of Study   : 2016 - 2020
+Medium of Instruction: English
 
-  Probability & Statistics     B
-  Machine Learning             B
-  Computer Networks            B
-  Databases                    B
-  Discrete Mathematics         B
-  Algorithms                   A-
-  Operating Systems            A-
-  Deep Learning                B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2016)
+Code      Module Title                                   Cr  Grade  Status
+EE1279    Engineering Graphics                            4     A+    PASS
+EE1860    Engineering Physics                             2      A    PASS
+EE1745    Workshop Practices                              3      A    PASS
+EE1989    Basic Electrical Engineering                    3     A+    PASS
+EE1189    Engineering Mathematics I                       3     A+    PASS
+EE1878    Professional Ethics                             3      A    PASS
+          Semester GPA                                        8.56
+
+SEMESTER 2  (Summer 2016)
+Code      Module Title                                   Cr  Grade  Status
+EE2270    Engineering Chemistry                           4     B+    PASS
+EE2386    Engineering Mathematics II                      3     B+    PASS
+EE2731    Engineering Mechanics                           2      B    PASS
+EE2150    Fundamentals of Programming II                  3      B    PASS
+          Semester GPA                                        6.58
+
+SEMESTER 3  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+EE3886    Digital Electronics                             3     A+    PASS
+EE3958    Signals & Systems                               4      B    PASS
+EE3377    Network Analysis                                3      A    PASS
+EE3531    Electronic Devices & Circuits                   4      A    PASS
+EE3786    Analog Communication                            2     B+    PASS
+EE3846    Programming Laboratory                          3     B+    PASS
+          Semester GPA                                        7.47
+
+SEMESTER 4  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+EE4140    Electrical Measurements & Instrumentation       3      A    PASS
+EE4169    Electromagnetics                                3     B+    PASS
+EE4270    Control Systems                                 2      B    PASS
+EE4473    Signal Processing & Communication Lab           3      B    PASS
+EE4944    Cyber Crime and Law                             3      B    PASS
+          Semester GPA                                        6.64
+
+SEMESTER 5  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+EE5736    Electric Circuits & Machines                    4     B+    PASS
+EE5545    Integrated Circuits                             4      B    PASS
+EE5208    Project Stage I                                 2     A+    PASS
+          Semester GPA                                        7.00
+
+SEMESTER 6  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+EE6753    Artificial Intelligence                         4      B    PASS
+EE6364    Digital Signal Processing                       3     B+    PASS
+EE6389    Microwave Engineering                           2     B+    PASS
+EE6594    VLSI Design & Technology                        3      A    PASS
+EE6561    Machine Learning                                3      A    PASS
+EE6830    Team Building, Leadership & Fitness             4     B+    PASS
+          Semester GPA                                        7.11
+
+SEMESTER 7  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE7845    Broadband Communication Systems                 3      B    PASS
+EE7169    Power Electronics                               2      B    PASS
+EE7325    Mechatronics                                    4     B+    PASS
+          Semester GPA                                        6.44
+
+SEMESTER 8  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE8312    Advanced Processors                             3      A    PASS
+EE8843    Embedded Systems & RTOS                         3     A+    PASS
+          Semester GPA                                        8.50
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 107
+CUMULATIVE GPA (CGPA): 8.00 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.20
+
+Date of Issue: 2020-10-11
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

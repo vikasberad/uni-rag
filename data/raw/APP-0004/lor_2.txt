@@ -1,10 +1,26 @@
-Letter of Recommendation
+10 October 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Computer Science program. As their Engineering Manager, I consider them a solid and dependable student. They demonstrated particular aptitude in AI safety, notably in a project involving engage frictionless portals. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Krystal Stewart
 
-I recommend them with confidence.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Krystal Stewart for admission to the MSc Computer Science at the University of Stuttgart. In my capacity as Head of Software Development at Farrell, Wagner and King, I directly supervised Krystal Stewart for 9 months during their engagement as Backend Developer Intern in our organization.
+
+During this period, Krystal Stewart implemented microservices with Docker, CI/CD and automated testing, working primarily with React, Git, Kubernetes. In terms of delivery and impact, they completed the majority of their assigned tasks satisfactorily. They occasionally needed additional guidance on complex work, but their attitude remained positive and they showed clear improvement toward the end of their engagement.
+
+What distinguished Krystal Stewart in a professional environment was their combination of technical curiosity and dependability. They was pleasant and cooperative, and benefited from the structured mentoring our team provides. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Computer Science is demanding and strongly research-oriented. Based on my direct observation of Krystal Stewart's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Krystal Stewart believing that the structured environment of a Master's program will help them realize their potential. Please do not hesitate to contact me for any further details.
 Sincerely,
-Betty Alvarez, Engineering Manager
+
+Michelle Harris
+Head of Software Development
+Farrell, Wagner and King
+waltersmaria@example.org | 2523427868

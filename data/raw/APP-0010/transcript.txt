@@ -1,11 +1,88 @@
-Official Transcript — East Robert University
-Degree: BEng Electrical Engineering   Cumulative GPA: 2.89/4.0
+KIMTON COLLEGE OF ENGINEERING
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Tammy Gonzales
+Degree            : BE Computer Engineering (4-year program)
+Enrollment Number : 481859785
+Period of Study   : 2016 - 2020
+Medium of Instruction: English
 
-  Databases                    B-
-  Software Engineering         B
-  Data Structures              B
-  Operating Systems            B-
-  Machine Learning             B
-  Linear Algebra               C+
-  Compilers                    C+
-  Probability & Statistics     B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS1222    Engineering Mathematics I                       3     A+    PASS
+CS1647    Fundamentals of Programming I                   4      B    PASS
+CS1878    Workshop Practices                              2     A+    PASS
+CS1548    Engineering Physics                             4      A    PASS
+CS1594    Engineering Chemistry                           2     B+    PASS
+CS1538    Human Behaviour                                 3     A+    PASS
+          Semester GPA                                        7.89
+
+SEMESTER 2  (Summer 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS2536    Engineering Mechanics                           3     A+    PASS
+CS2830    Basic Electrical Engineering                    2     A+    PASS
+          Semester GPA                                        9.00
+
+SEMESTER 3  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS3876    Discrete Mathematics                            3      A    PASS
+CS3287    Data Structures and Algorithms                  4      B    PASS
+CS3889    Computer Organization                           3      B    PASS
+CS3892    Design and Analysis of Algorithms               3      A    PASS
+CS3690    Operating Systems                               3      A    PASS
+CS3666    VLSI & Embedded Lab                             4     A+    PASS
+CS3993    Road Safety Management                          3      A    PASS
+          Semester GPA                                        7.57
+
+SEMESTER 4  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS4493    Database Management Systems                     3      B    PASS
+CS4126    Compiler Design                                 3     B+    PASS
+CS4961    Networks Laboratory                             2      B    PASS
+CS4677    Cyber Crime and Law                             4      B    PASS
+          Semester GPA                                        6.25
+
+SEMESTER 5  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS5607    Theory of Computation                           4      A    PASS
+CS5818    Software Engineering                            4     A+    PASS
+CS5874    Team Building, Leadership & Fitness             4     B+    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 6  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS6409    Artificial Intelligence                         3     A+    PASS
+CS6818    Big Data Analytics                              2     A+    PASS
+CS6615    Information Security                            4     A+    PASS
+CS6925    Machine Learning                                3      A    PASS
+CS6424    Mobile Application Development                  4     B+    PASS
+          Semester GPA                                        8.31
+
+SEMESTER 7  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS7237    Cloud Computing                                 3      B    PASS
+CS7878    High Performance Computing                      3      A    PASS
+CS7750    Data Mining                                     3      B    PASS
+CS7373    Project Stage I                                 4      B    PASS
+          Semester GPA                                        6.46
+
+SEMESTER 8  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS8946    Distributed Computing                           4     B+    PASS
+CS8936    Machine Learning Laboratory                     3     B+    PASS
+          Semester GPA                                        7.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 106
+CUMULATIVE GPA (CGPA): 8.04 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.18
+
+Date of Issue: 2020-08-31
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

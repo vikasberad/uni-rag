@@ -1,15 +1,39 @@
-Curriculum Vitae
+DONNA SULLIVAN
+george97@example.net | 511-799-8679x8079 | Masonton, China
+Date of Birth: 2005-05-24 | LinkedIn: linkedin.com/in/donna-sullivan
 
-Education
-- BSc Computer Science, West Alexis University — GPA 2.85/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Electronics & Telecommunication graduate (2021) with a focus on IoT platforms and hardware-software co-design, holding a CGPA of 6.71/10 (German equivalent 2.97). Experienced through 0 internship(s) and 4 year(s) of professional work, with hands-on skills in MATLAB, MQTT, Linux, Embedded C. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Embedded Systems).
 
-Skills
-- Git, Linux, PyTorch, AWS, C++, Spark
+EDUCATION
+----------------------------------------------------------------------
+2017 - 2021   BE Electronics & Telecommunication
+                Christopherville Technical University
+                CGPA: 6.71/10 | German equivalent grade: 2.97
 
-Projects
-- Business-focused eco-centric matrices: embrace innovative interfaces using PyTorch
-- Pre-emptive asynchronous orchestration: whiteboard scalable eyeballs using AWS
-- Distributed non-volatile framework: evolve interactive initiatives using Linux
+EXPERIENCE
+----------------------------------------------------------------------
+04/2025 - 01/2026   Backend Developer Intern, Garcia-Nolan
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Built monitoring dashboards for continuous data acquisition.
 
-Experience
-- Software Engineer, Duran, Obrien and Gibbs (2 yr): enhance enterprise systems
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Iot Platforms-Based Prediction System
+    - Designed and implemented an end-to-end prototype using Embedded C, C++, Git.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Autonomous Line-Following Robot
+    - Team project applying hardware-software co-design concepts; responsible for data pipeline and evaluation.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : MATLAB, MQTT, Linux, Embedded C, C, FreeRTOS, Docker, Python
+Domains             : IoT platforms, hardware-software co-design, software engineering practices (Git, code review, CI)
+Languages           : English (B2, IELTS 7.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Lolunteered as a coding mentor for first-year students.
+    - Oed a student chapter organizing guest lectures with industry professionals.

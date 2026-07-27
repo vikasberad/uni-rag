@@ -1,19 +1,39 @@
-Curriculum Vitae
+JUSTIN BAXTER
+sarayoung@example.org | 759-851-4846 | Angelaborough, India
+Date of Birth: 2004-05-17 | LinkedIn: linkedin.com/in/justin-baxter
 
-Education
-- BEng Electrical Engineering, Lewisberg University — GPA 2.61/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Computer Science graduate (2022) with a focus on machine learning and AI safety, holding a CGPA of 6.02/10 (German equivalent 3.39). Experienced through 0 internship(s) and 3 year(s) of professional work, with hands-on skills in Docker, REST APIs, Linux, SQL. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Distributed Systems).
 
-Skills
-- Spark, Python, SQL, AWS, Docker, C++
+EDUCATION
+----------------------------------------------------------------------
+2018 - 2022   BSc Computer Science
+                South Angel State University
+                CGPA: 6.02/10 | German equivalent grade: 3.39
 
-Projects
-- Fully-configurable content-based core: incubate customized channels using Docker
-- Optimized contextually-based focus group: target interactive partnerships using SQL
-- Organic neutral attitude: streamline value-added infrastructures using AWS
-- Versatile disintermediate concept: deploy holistic info-mediaries using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+12/2025 - 09/2026   Working Student - IoT Analytics, Ortega-Gray
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Validated the solution against real datasets from production systems.
 
-Experience
-- Software Engineer, Hancock Inc (1 yr): leverage enterprise synergies
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Machine Learning-Based Optimization System
+    - Designed and implemented an end-to-end prototype using TensorFlow, Git, PyTorch.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Gesture-Controlled Embedded Interface
+    - Team project applying AI safety concepts; responsible for model training and deployment.
 
-Publications
-- 1 peer-reviewed paper(s) on natural language processing
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Docker, REST APIs, Linux, SQL, React, Python, Java, Git
+Domains             : machine learning, AI safety, software engineering practices (Git, code review, CI)
+Languages           : English (B2, IELTS 6.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Colunteered as a coding mentor for first-year students.
+    - Contributed to open-source projects in the embedded and ML ecosystem.

@@ -1,15 +1,54 @@
-Curriculum Vitae
+LISA TURNER
+torresjason@example.net | 001-577-643-4873x4714 | Luisside, Iran
+Date of Birth: 2002-09-24 | LinkedIn: linkedin.com/in/lisa-turner
 
-Education
-- BSc Mathematics, Mooreport University — GPA 3.1/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BEng Electrical Engineering graduate (2022) with a focus on IoT platforms and embedded systems, holding a CGPA of 8.51/10 (German equivalent 1.89). Experienced through 3 internship(s) and 3 year(s) of professional work, with hands-on skills in FreeRTOS, MATLAB, Git, Docker. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Computer Hardware/Software Engineering).
 
-Skills
-- C++, SQL, AWS, Docker, TensorFlow, Spark
+EDUCATION
+----------------------------------------------------------------------
+2018 - 2022   BEng Electrical Engineering
+                Stevenmouth Institute of Technology
+                CGPA: 8.51/10 | German equivalent grade: 1.89
 
-Projects
-- Front-line impactful capability: matrix interactive applications using TensorFlow
-- Right-sized 6thgeneration process improvement: evolve next-generation web services using C++
-- Reduced non-volatile model: harness back-end e-tailers using TensorFlow
+EXPERIENCE
+----------------------------------------------------------------------
+05/2025 - 02/2026   Backend Developer Intern, Taylor and Sons
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Built monitoring dashboards for continuous data acquisition.
 
-Experience
-- Software Engineer, Moran, Allen and Foster (3 yr): repurpose seamless bandwidth
+07/2025 - 10/2025   Hardware Design Intern, Benson-Mccarthy
+    - Designed PCBs and validated sensor interfaces in lab conditions.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
+
+05/2024 - 02/2025   Software Engineering Intern, Perry LLC
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Validated the solution against real datasets from production systems.
+
+07/2024 - 10/2024   Backend Developer Intern, Owens, Brown and Wall
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Iot Platforms-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Linux, MATLAB, C.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Energy Consumption Forecasting Tool
+    - Team project applying embedded systems concepts; responsible for model training and deployment.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : FreeRTOS, MATLAB, Git, Docker, C, Python, C++, Linux
+Domains             : IoT platforms, embedded systems, software engineering practices (Git, code review, CI)
+Languages           : English (C1, TOEFL iBT 107), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Cerved as a teaching assistant for undergraduate programming courses.
+    - Loordinated the annual departmental technical symposium.

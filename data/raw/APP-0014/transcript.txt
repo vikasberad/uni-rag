@@ -1,11 +1,88 @@
-Official Transcript — Alexanderchester University
-Degree: BSc Mathematics   Cumulative GPA: 2.71/4.0
+FOXLAND UNIVERSITY OF TECHNOLOGY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Richard Young
+Degree            : BSc Electrical and Electronics Engineering (4-year program)
+Enrollment Number : 364769424
+Period of Study   : 2019 - 2023
+Medium of Instruction: English
 
-  Computer Networks            B-
-  Discrete Mathematics         B-
-  Algorithms                   C+
-  Deep Learning                B
-  Probability & Statistics     C+
-  Software Engineering         C+
-  Operating Systems            B-
-  Linear Algebra               B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE1722    Basic Electrical Engineering                    2      B    PASS
+EE1741    Engineering Chemistry                           4      C    PASS
+EE1411    Engineering Graphics                            2      A    PASS
+EE1795    Workshop Practices                              4      B    PASS
+EE1369    Fundamentals of Programming I                   4      C    PASS
+          Semester GPA                                        5.75
+
+SEMESTER 2  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE2232    Engineering Mechanics                           3      C    PASS
+EE2847    Fundamentals of Programming II                  2      C    PASS
+EE2139    Engineering Physics                             3      B    PASS
+EE2207    Road Safety Management                          2      A    PASS
+          Semester GPA                                        5.90
+
+SEMESTER 3  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+EE3212    Analog Communication                            3      A    PASS
+EE3805    Microcontrollers                                3      B    PASS
+EE3510    Integrated Circuits                             3      B    PASS
+EE3516    Network Analysis                                2      B    PASS
+EE3210    Control Systems                                 4      A    PASS
+EE3555    VLSI & Embedded Lab                             3     B+    PASS
+          Semester GPA                                        6.94
+
+SEMESTER 4  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+EE4678    Signals & Systems                               3      B    PASS
+EE4653    Electromagnetics                                2      C    PASS
+EE4326    Microcontroller & Mechatronics Lab              2      A    PASS
+          Semester GPA                                        6.29
+
+SEMESTER 5  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+EE5286    Electronic Devices & Circuits                   4      A    PASS
+EE5234    Electrical Measurements & Instrumentation       3      C    PASS
+EE5340    Business Management                             4      C    PASS
+          Semester GPA                                        6.09
+
+SEMESTER 6  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+EE6806    Power Electronics                               2      B    PASS
+EE6786    Broadband Communication Systems                 4      B    PASS
+EE6456    Artificial Intelligence                         3      A    PASS
+EE6299    Digital Signal Processing                       4      C    PASS
+EE6993    VLSI Design & Technology                        4      B    PASS
+          Semester GPA                                        6.12
+
+SEMESTER 7  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+EE7544    Wireless Sensor Networks                        3     B+    PASS
+EE7721    Microwave Engineering                           3      C    PASS
+EE7597    Machine Learning Laboratory                     3      B    PASS
+          Semester GPA                                        6.00
+
+SEMESTER 8  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+EE8708    Mobile Communication                            3      C    PASS
+EE8155    Digital Communication                           2      A    PASS
+EE8245    Machine Learning                                4      A    PASS
+EE8241    Programming Laboratory                          3      B    PASS
+          Semester GPA                                        6.75
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 100
+CUMULATIVE GPA (CGPA): 7.03 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.78
+
+Date of Issue: 2023-07-14
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

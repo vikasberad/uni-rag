@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0008",
-  "name": "Sarah Wagner",
-  "email": "rebecca01@example.net",
-  "nationality": "Jamaica",
-  "program": "MSc Computer Science",
+  "name": "Barbara Riggs",
+  "email": "reedross@example.com",
+  "date_of_birth": "1998-02-27",
+  "nationality": "Vietnam",
+  "aps_required": true,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Information Technology (INFOTECH)",
+  "intended_specialization": "Communications",
   "undergrad_degree": "BEng Electrical Engineering",
-  "undergrad_university": "Bradleymouth University",
-  "gpa": 3.21,
-  "gpa_scale": 4.0,
-  "ielts": 6.9,
-  "gre_quant": 169,
-  "interests": [
-    "MLOps",
-    "natural language processing"
-  ],
-  "work_experience_years": 0,
+  "undergrad_university": "Alexanderchester University of Technology",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2024,
+  "cgpa": 6.01,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 3.39,
+  "english_test": "TOEFL iBT",
+  "english_score": 86,
+  "gre_quant": 164,
+  "work_experience_years": 1,
+  "internships": 2,
   "publications": 0,
-  "_strength": "average"
+  "interests": [
+    "IoT platforms",
+    "hardware-software co-design"
+  ],
+  "_strength": "weak"
 }

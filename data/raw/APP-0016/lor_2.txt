@@ -1,10 +1,26 @@
-Letter of Recommendation
+25 December 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Information Technology (INFOTECH)
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Software Engineering program. As their Engineering Manager, I consider them a student who showed potential but inconsistent performance. They demonstrated particular aptitude in natural language processing, notably in a project involving grow cross-platform ROI. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Donna Sullivan
 
-I recommend them with some reservations noted above.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Donna Sullivan for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. In my capacity as R&D Group Leader at Morris, Maddox and Stewart, I directly supervised Donna Sullivan for 12 months during their engagement as Backend Developer Intern in our organization.
+
+During this period, Donna Sullivan implemented microservices with Docker, CI/CD and automated testing, working primarily with Git, Embedded C, C. In terms of delivery and impact, they completed the majority of their assigned tasks satisfactorily. They occasionally needed additional guidance on complex work, but their attitude remained positive and they showed clear improvement toward the end of their engagement.
+
+What distinguished Donna Sullivan in a professional environment was their combination of technical curiosity and dependability. They was pleasant and cooperative, and benefited from the structured mentoring our team provides. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Information Technology (INFOTECH) is demanding and strongly research-oriented. Based on my direct observation of Donna Sullivan's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Donna Sullivan believing that the structured environment of a Master's program will help them realize their potential. Please do not hesitate to contact me for any further details.
 Sincerely,
-Laura Harrison, Engineering Manager
+
+Sonia Day
+R&D Group Leader
+Morris, Maddox and Stewart
+harrisoncrystal@example.com | 001-205-781-4770

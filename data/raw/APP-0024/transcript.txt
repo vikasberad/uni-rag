@@ -1,11 +1,92 @@
-Official Transcript — Lake Bryan University
-Degree: BSc Computer Science   Cumulative GPA: 2.62/4.0
+PORT WILLIAM STATE UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Lance Hebert
+Degree            : BSc Computer Science (4-year program)
+Enrollment Number : 623503583
+Period of Study   : 2020 - 2024
+Medium of Instruction: English
 
-  Data Structures              B-
-  Deep Learning                C+
-  Computer Networks            C+
-  Machine Learning             B
-  Software Engineering         B
-  Probability & Statistics     B-
-  Algorithms                   B-
-  Discrete Mathematics         B-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN1223    Engineering Mathematics I                       4     A+    PASS
+IN1691    Basic Electrical Engineering                    2      B    PASS
+IN1801    Engineering Graphics                            4      B    PASS
+IN1215    Fundamentals of Programming I                   3     B+    PASS
+IN1792    Engineering Physics                             3      B    PASS
+          Semester GPA                                        6.94
+
+SEMESTER 2  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN2579    Fundamentals of Programming II                  4      B    PASS
+IN2733    Team Building, Leadership & Fitness             4     A+    PASS
+          Semester GPA                                        7.50
+
+SEMESTER 3  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN3118    Electric Circuits & Machines                    3     B+    PASS
+IN3982    Analog Communication                            2     A+    PASS
+IN3448    Signals & Systems                               4     B+    PASS
+IN3352    Operating Systems                               4      A    PASS
+IN3943    Object Oriented Programming                     3     A+    PASS
+IN3467    Programming Laboratory                          3      B    PASS
+IN3844    Cyber Crime and Law                             2      B    PASS
+          Semester GPA                                        7.43
+
+SEMESTER 4  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN4237    Database Management Systems                     4     B+    PASS
+IN4249    Control Systems                                 3      B    PASS
+IN4619    Electromagnetics                                4     B+    PASS
+IN4873    Project Stage II                                3     A+    PASS
+          Semester GPA                                        7.21
+
+SEMESTER 5  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN5903    Electrical Measurements & Instrumentation       2     B+    PASS
+IN5446    Data Structures and Algorithms                  4     A+    PASS
+IN5486    Discrete Mathematics                            2      A    PASS
+IN5151    Microcontrollers                                3      B    PASS
+IN5127    Technical Communication                         4     B+    PASS
+          Semester GPA                                        7.47
+
+SEMESTER 6  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN6181    Machine Learning                                3      A    PASS
+IN6286    Power Systems                                   4     A+    PASS
+IN6787    VLSI Design & Technology                        3      A    PASS
+IN6150    Digital Signal Processing                       3      B    PASS
+IN6870    Distributed Computing                           4     B+    PASS
+IN6865    Microcontroller & Mechatronics Lab              3      A    PASS
+          Semester GPA                                        7.70
+
+SEMESTER 7  (Winter 2023)
+Code      Module Title                                   Cr  Grade  Status
+IN7648    Mechatronics                                    4      B    PASS
+IN7515    Broadband Communication Systems                 4     B+    PASS
+IN7191    Artificial Intelligence                         3      A    PASS
+IN7359    Signal Processing & Communication Lab           4      A    PASS
+          Semester GPA                                        7.20
+
+SEMESTER 8  (Summer 2023)
+Code      Module Title                                   Cr  Grade  Status
+IN8283    Wireless Sensor Networks                        4     A+    PASS
+IN8372    Advanced Processors                             3     A+    PASS
+IN8609    Cloud Computing                                 3      B    PASS
+IN8184    Digital Communication                           4      A    PASS
+          Semester GPA                                        8.07
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 123
+CUMULATIVE GPA (CGPA): 7.84 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.30
+
+Date of Issue: 2024-09-22
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

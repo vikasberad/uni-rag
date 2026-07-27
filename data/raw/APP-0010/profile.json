@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0010",
-  "name": "Michelle Evans",
-  "email": "elizabeth56@example.net",
-  "nationality": "French Polynesia",
-  "program": "MSc Robotics",
-  "undergrad_degree": "BEng Electrical Engineering",
-  "undergrad_university": "East Robert University",
-  "gpa": 2.89,
-  "gpa_scale": 4.0,
-  "ielts": 7.9,
-  "gre_quant": 155,
-  "interests": [
-    "reinforcement learning",
-    "computer vision"
-  ],
-  "work_experience_years": 3,
+  "name": "Tammy Gonzales",
+  "email": "sbarker@example.com",
+  "date_of_birth": "1999-11-20",
+  "nationality": "Turkey",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Computer Science",
+  "intended_specialization": "Distributed Systems",
+  "undergrad_degree": "BE Computer Engineering",
+  "undergrad_university": "Kimton College of Engineering",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2020,
+  "cgpa": 8.04,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 2.18,
+  "english_test": "TOEFL iBT",
+  "english_score": 91,
+  "gre_quant": 166,
+  "work_experience_years": 4,
+  "internships": 3,
   "publications": 0,
-  "_strength": "weak"
+  "interests": [
+    "natural language processing",
+    "AI safety"
+  ],
+  "_strength": "average"
 }

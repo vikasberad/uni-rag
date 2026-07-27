@@ -1,11 +1,89 @@
-Official Transcript — Vaughnmouth University
-Degree: BSc Mathematics   Cumulative GPA: 3.62/4.0
+WEST JESSICA STATE UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Douglas Harper
+Degree            : BE Computer Engineering (4-year program)
+Enrollment Number : 578964677
+Period of Study   : 2017 - 2021
+Medium of Instruction: English
 
-  Operating Systems            B+
-  Discrete Mathematics         B+
-  Algorithms                   B+
-  Linear Algebra               A
-  Databases                    B+
-  Deep Learning                B+
-  Software Engineering         A
-  Compilers                    A-
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS1983    Engineering Physics                             4     A+    PASS
+CS1229    Engineering Chemistry                           3      B    PASS
+CS1851    Fundamentals of Programming II                  4     B+    PASS
+CS1722    Engineering Mathematics I                       2      B    PASS
+CS1569    Engineering Graphics                            4      B    PASS
+CS1365    Road Safety Management                          4      B    PASS
+          Semester GPA                                        6.76
+
+SEMESTER 2  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS2603    Basic Electrical Engineering                    3     B+    PASS
+CS2811    Engineering Mathematics II                      3     A+    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 3  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS3588    Theory of Computation                           3     B+    PASS
+CS3151    Discrete Mathematics                            4      B    PASS
+CS3153    Operating Systems                               3      A    PASS
+CS3419    Database Management Systems                     4      A    PASS
+CS3966    Computer Organization                           4     A+    PASS
+CS3574    VLSI & Embedded Lab                             4     B+    PASS
+          Semester GPA                                        7.50
+
+SEMESTER 4  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS4412    Compiler Design                                 3      A    PASS
+CS4134    Data Structures and Algorithms                  4     B+    PASS
+CS4330    Networks Laboratory                             4     B+    PASS
+          Semester GPA                                        7.27
+
+SEMESTER 5  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS5847    Object Oriented Programming                     2     B+    PASS
+CS5350    Web Technologies                                3     B+    PASS
+CS5172    Computer Networks                               3      A    PASS
+          Semester GPA                                        7.38
+
+SEMESTER 6  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS6540    Natural Language Processing                     3      B    PASS
+CS6531    Distributed Computing                           4      A    PASS
+CS6103    Information Security                            4     B+    PASS
+CS6695    Machine Learning                                4     B+    PASS
+CS6537    Mobile Application Development                  4     A+    PASS
+CS6709    Project Stage II                                2      A    PASS
+CS6955    Cyber Crime and Law                             4      A    PASS
+          Semester GPA                                        7.60
+
+SEMESTER 7  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS7527    Data Mining                                     4      A    PASS
+CS7305    Artificial Intelligence                         2     B+    PASS
+CS7591    Cloud Computing                                 4     A+    PASS
+CS7689    Project Stage I                                 2     A+    PASS
+CS7950    Business Management                             3     A+    PASS
+          Semester GPA                                        8.47
+
+SEMESTER 8  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS8580    Big Data Analytics                              4     A+    PASS
+CS8985    Programming Laboratory                          3      A    PASS
+          Semester GPA                                        8.57
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 115
+CUMULATIVE GPA (CGPA): 8.22 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.07
+
+Date of Issue: 2021-07-11
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

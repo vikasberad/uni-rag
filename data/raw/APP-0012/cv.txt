@@ -1,12 +1,49 @@
-Curriculum Vitae
+LEON REYES
+tyleraguilar@example.org | (632)985-8842 | Juliemouth, Iran
+Date of Birth: 2001-06-29 | LinkedIn: linkedin.com/in/leon-reyes
 
-Education
-- BSc Mathematics, Port Nicoleshire University — GPA 3.56/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Information Technology graduate (2022) with a focus on real-time systems and edge AI, holding a CGPA of 7.65/10 (German equivalent 2.41). Experienced through 2 internship(s) and 4 year(s) of professional work, with hands-on skills in InfluxDB, C++, Python, Docker. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Micro- and Optoelectronics).
 
-Skills
-- AWS, C++, SQL, Spark, Python, PyTorch
+EDUCATION
+----------------------------------------------------------------------
+2018 - 2022   BSc Information Technology
+                Stevetown University of Technology
+                CGPA: 7.65/10 | German equivalent grade: 2.41
 
-Projects
-- Persistent clear-thinking process improvement: incubate proactive interfaces using AWS
-- Reverse-engineered non-volatile protocol: utilize strategic experiences using PyTorch
-- Optimized client-driven Local Area Network: reinvent scalable portals using Python
+EXPERIENCE
+----------------------------------------------------------------------
+06/2025 - 06/2026   Data Engineering Intern, Mcdonald Inc
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
+
+01/2025 - 10/2025   Embedded Systems Intern, Webster and Sons
+    - Wrote Embedded C firmware for microcontrollers with CAN and SPI drivers.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Improved processing performance through profiling and optimization.
+
+09/2024 - 09/2025   Working Student - IoT Analytics, Ramsey, Whitney and Coffey
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Documented modules and validation procedures following engineering standards.
+    - Containerized the workflow for reproducible deployment.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Real-Time Systems-Based Optimization System
+    - Designed and implemented an end-to-end prototype using MQTT, Python, Git.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Autonomous Line-Following Robot
+    - Team project applying edge AI concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : InfluxDB, C++, Python, Docker, Linux, Git, MQTT, C
+Domains             : real-time systems, edge AI, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 6.5), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Led a student chapter organizing guest lectures with industry professionals.
+    - Led the avionics subsystem of the university rocketry team.

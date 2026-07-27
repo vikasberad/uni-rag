@@ -1,11 +1,54 @@
-Curriculum Vitae
+LAUREN DOMINGUEZ
+wwoods@example.com | 427.319.3745 | West Daniel, Mexico
+Date of Birth: 2003-12-24 | LinkedIn: linkedin.com/in/lauren-dominguez
 
-Education
-- BEng Electrical Engineering, New Joseph University — GPA 3.39/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BEng Electrical Engineering graduate (2020) with a focus on control systems and smart grids, holding a CGPA of 8.0/10 (German equivalent 2.2). Experienced through 3 internship(s) and 4 year(s) of professional work, with hands-on skills in Embedded C, Simulink, LabVIEW, Linux. Applying for the MSc Electrical Engineering at the University of Stuttgart (intended specialization: Sustainable Electrical Energy Systems).
 
-Skills
-- Docker, Python, Git, AWS, PyTorch, Spark
+EDUCATION
+----------------------------------------------------------------------
+2016 - 2020   BEng Electrical Engineering
+                Castanedachester Technical University
+                CGPA: 8.0/10 | German equivalent grade: 2.2
 
-Projects
-- Customizable bi-directional synergy: engage B2C niches using Python
-- Horizontal real-time database: unleash cross-platform e-tailers using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+10/2025 - 01/2026   R&D Intern - Machine Learning, Hickman PLC
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Containerized the workflow for reproducible deployment.
+
+10/2024 - 07/2025   Working Student - IoT Analytics, Odonnell, Brooks and David
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Containerized the workflow for reproducible deployment.
+
+04/2024 - 07/2024   R&D Intern - Machine Learning, Jones Ltd
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Validated the solution against real datasets from production systems.
+
+09/2023 - 09/2024   R&D Intern - Machine Learning, Sanchez, Terry and Turner
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Control Systems-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Python, Simulink, Embedded C.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis; findings contributed to 1 publication(s).
+Energy Consumption Forecasting Tool
+    - Team project applying smart grids concepts; responsible for firmware and hardware bring-up.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Embedded C, Simulink, LabVIEW, Linux, MATLAB, PLC Programming, VHDL, PSpice
+Domains             : control systems, smart grids, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Voordinated the annual departmental technical symposium.
+    - Ced the avionics subsystem of the university rocketry team.

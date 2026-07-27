@@ -1,11 +1,87 @@
-Official Transcript — Hurstfurt University
-Degree: BSc Computer Science   Cumulative GPA: 3.14/4.0
+SANCHEZFORT TECHNICAL UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Jose Ramirez
+Degree            : BE Computer Engineering (4-year program)
+Enrollment Number : 766176719
+Period of Study   : 2019 - 2023
+Medium of Instruction: English
 
-  Operating Systems            B
-  Compilers                    B+
-  Discrete Mathematics         B+
-  Computer Networks            B
-  Deep Learning                B+
-  Linear Algebra               A-
-  Machine Learning             B+
-  Probability & Statistics     B+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS1900    Engineering Mechanics                           3     A+    PASS
+CS1210    Engineering Chemistry                           4     A+    PASS
+CS1777    Fundamentals of Programming I                   4     A+    PASS
+CS1203    Engineering Physics                             3     B+    PASS
+CS1445    Engineering Graphics                            4     B+    PASS
+          Semester GPA                                        8.22
+
+SEMESTER 2  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS2132    Fundamentals of Programming II                  3     B+    PASS
+CS2630    Workshop Practices                              4      A    PASS
+CS2733    Road Safety Management                          4     B+    PASS
+          Semester GPA                                        7.36
+
+SEMESTER 3  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS3531    Compiler Design                                 2     B+    PASS
+CS3407    Design and Analysis of Algorithms               3     B+    PASS
+CS3479    Theory of Computation                           4      A    PASS
+CS3625    Web Technologies                                4      A    PASS
+CS3145    Discrete Mathematics                            2      A    PASS
+CS3372    Project Stage II                                3     B+    PASS
+          Semester GPA                                        7.56
+
+SEMESTER 4  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS4697    Software Engineering                            4      B    PASS
+CS4730    Database Management Systems                     3     A+    PASS
+CS4614    Programming Laboratory                          4      A    PASS
+CS4648    Human Behaviour                                 4     A+    PASS
+          Semester GPA                                        7.93
+
+SEMESTER 5  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS5917    Operating Systems                               3      B    PASS
+CS5239    Data Structures and Algorithms                  3     B+    PASS
+CS5476    Microcontroller & Mechatronics Lab              3     B+    PASS
+          Semester GPA                                        6.67
+
+SEMESTER 6  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS6756    Information Security                            3     B+    PASS
+CS6584    High Performance Computing                      4     A+    PASS
+CS6561    Mobile Application Development                  3     A+    PASS
+CS6165    Artificial Intelligence                         3     A+    PASS
+CS6783    Cloud Computing                                 4     A+    PASS
+CS6343    Project Stage I                                 4      B    PASS
+          Semester GPA                                        8.14
+
+SEMESTER 7  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS7594    Big Data Analytics                              2      B    PASS
+CS7169    Data Mining                                     4      A    PASS
+CS7678    Machine Learning                                3      A    PASS
+          Semester GPA                                        7.56
+
+SEMESTER 8  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS8635    Distributed Computing                           3     B+    PASS
+CS8490    Employability Skill Development                 4     B+    PASS
+          Semester GPA                                        7.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 108
+CUMULATIVE GPA (CGPA): 8.29 / 10.00
+CLASSIFICATION       : FIRST CLASS WITH DISTINCTION
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.03
+
+Date of Issue: 2023-08-21
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

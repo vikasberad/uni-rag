@@ -1,10 +1,26 @@
-Letter of Recommendation
+23 October 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Information Technology (INFOTECH)
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Software Engineering program. As their Professor, I consider them a student who showed potential but inconsistent performance. They demonstrated particular aptitude in natural language processing, notably in a project involving engineer holistic platforms. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Donna Sullivan
 
-I recommend them with some reservations noted above.
+Dear Members of the Admissions Committee,
 
+It is a distinct pleasure to write this letter of recommendation for Donna Sullivan as they apply for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. As a Professor of Electrical Engineering at Christopherville Technical University, I have interacted with many promising students over the past 12 years; Donna Sullivan showed genuine potential, although their performance across courses was at times inconsistent. I have known them for 3 years, during which time they took my courses in Electronic Devices & Circuits and Digital Electronics.
+
+Academically, Donna Sullivan grasps core concepts adequately when engaged, and their capstone project showed flashes of insight. However, I must candidly note that their depth of preparation varied between courses, which is reflected in an uneven grade profile. For their final-year assignment they worked on a project titled "Iot Platforms approaches to leverage intuitive mindshare", which investigated how IoT platforms techniques can be applied in a practical engineering context. Their ability to survey the literature, formulate a clear hypothesis and execute a sound methodology left a lasting impression on the examination committee.
+
+Beyond individual academic achievement, Donna Sullivan was cooperative in group settings, though they tended to take a supporting rather than leading role. When given clear structure and mentorship, they responded well and improved noticeably over the term.
+
+On a personal level, Donna Sullivan is a mature and motivated individual who handles heavy academic workloads and unexpected setbacks with a calm, positive demeanor. They participate actively in departmental activities and show a genuine willingness to give back to the academic community. I am confident that they possess the intellectual capacity, work ethic and character necessary to thrive in your rigorous, English-taught program and to make meaningful contributions to your university.
+
+Therefore, I give Donna Sullivan my recommendation, with the reservations noted above. Please feel free to contact me if you require any further information.
 Sincerely,
-Tony Little, Professor
+
+Gerald Cook
+Professor of Electrical Engineering
+Christopherville Technical University
+rebeccabailey@example.net | +1-923-912-4329x2127

@@ -1,10 +1,26 @@
-Letter of Recommendation
+19 December 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Data Science program. As their Professor, I consider them one of the top 5% of students I have taught. They demonstrated particular aptitude in human-computer interaction, notably in a project involving incentivize 24/365 web-readiness. Their analytical writing and initiative were exceptional.
+Subject: Letter of Recommendation for Ann Foster
 
-I recommend them without reservation.
+Dear Members of the Admissions Committee,
 
+It is a distinct pleasure to write this letter of recommendation for Ann Foster as they apply for admission to the MSc Computer Science at the University of Stuttgart. As a Professor of Computer Science at Brendastad College of Engineering, I have interacted with many promising students over the past 12 years; Ann Foster stands out as one of the top 5% of students I have taught in my 12 years at this institution. I have known them for 2 years, during which time they took my courses in Discrete Mathematics and Computer Organization.
+
+Academically, Ann Foster possesses a rare combination of analytical rigor and creative problem-solving. They routinely demonstrated a deep conceptual understanding that went far beyond the standard curriculum, and their capstone work was equivalent to that of a seasoned graduate student, ultimately earning one of the highest marks in the department. For their final-year assignment they worked on a project titled "Software Architecture approaches to optimize plug-and-play content", which investigated how software architecture techniques can be applied in a practical engineering context. Their ability to survey the literature, formulate a clear hypothesis and execute a sound methodology left a lasting impression on the examination committee.
+
+Beyond individual academic achievement, Ann Foster naturally stepped into the role of facilitator during group seminars, ensuring all team members contributed while keeping the group focused. Peers look up to them for clarity of thought and willingness to help others with difficult concepts. As my research assistant, they displayed meticulous attention to detail and unwavering academic integrity.
+
+On a personal level, Ann Foster is a mature and motivated individual who handles heavy academic workloads and unexpected setbacks with a calm, positive demeanor. They participate actively in departmental activities and show a genuine willingness to give back to the academic community. I am confident that they possess the intellectual capacity, work ethic and character necessary to thrive in your rigorous, English-taught program and to make meaningful contributions to your university.
+
+Therefore, I give Ann Foster my highest, unreserved recommendation. Please feel free to contact me if you require any further information.
 Sincerely,
-Amanda Johnson, Professor
+
+Suzanne Walker
+Professor of Computer Science
+Brendastad College of Engineering
+taylorsophia@example.com | 811.338.2675x8692

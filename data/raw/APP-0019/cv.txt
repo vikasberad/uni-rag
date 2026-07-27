@@ -1,18 +1,54 @@
-Curriculum Vitae
+JOHN REID
+jon05@example.org | +1-845-411-5447 | Bellton, China
+Date of Birth: 2000-07-03 | LinkedIn: linkedin.com/in/john-reid
 
-Education
-- BSc Mathematics, Andreaport University — GPA 3.71/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BEng Electrical Engineering graduate (2021) with a focus on signal processing and power electronics, holding a CGPA of 8.11/10 (German equivalent 2.13). Experienced through 3 internship(s) and 4 year(s) of professional work, with hands-on skills in Simulink, MATLAB, LabVIEW, PCB Design. Applying for the MSc Electrical Engineering at the University of Stuttgart (intended specialization: Signal Processing and Communications).
 
-Skills
-- SQL, Spark, Linux, AWS, C++, PyTorch
+EDUCATION
+----------------------------------------------------------------------
+2017 - 2021   BEng Electrical Engineering
+                Lake Diane State University
+                CGPA: 8.11/10 | German equivalent grade: 2.13
 
-Projects
-- Universal explicit migration: unleash real-time e-markets using SQL
-- Polarized methodical encryption: target B2B architectures using PyTorch
-- Ergonomic radical migration: extend global partnerships using Linux
+EXPERIENCE
+----------------------------------------------------------------------
+11/2025 - 02/2026   R&D Intern - Machine Learning, Berg, Gomez and Bolton
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Built monitoring dashboards for continuous data acquisition.
 
-Experience
-- Software Engineer, Barton-Dickerson (1 yr): facilitate real-time synergies
+12/2024 - 06/2025   Backend Developer Intern, Fowler-Moody
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
 
-Publications
-- 1 peer-reviewed paper(s) on MLOps
+02/2024 - 05/2024   Working Student - IoT Analytics, Jones Ltd
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Containerized the workflow for reproducible deployment.
+
+09/2023 - 03/2024   Backend Developer Intern, Cox-Owen
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Containerized the workflow for reproducible deployment.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Signal Processing-Based Optimization System
+    - Designed and implemented an end-to-end prototype using PSpice, LabVIEW, Simulink.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Gesture-Controlled Embedded Interface
+    - Team project applying power electronics concepts; responsible for data pipeline and evaluation.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Simulink, MATLAB, LabVIEW, PCB Design, Python, C, Embedded C, VHDL
+Domains             : signal processing, power electronics, software engineering practices (Git, code review, CI)
+Languages           : English (C1, TOEFL iBT 93), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Cerved as a teaching assistant for undergraduate programming courses.
+    - Lontributed to open-source projects in the embedded and ML ecosystem.

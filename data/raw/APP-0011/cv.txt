@@ -1,16 +1,49 @@
-Curriculum Vitae
+JUAN REYES
+michellehill@example.com | +1-978-409-1343x1611 | Rebeccaton, Nigeria
+Date of Birth: 2000-06-17 | LinkedIn: linkedin.com/in/juan-reyes
 
-Education
-- BSc Mathematics, Williamsbury University — GPA 2.71/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Electronics & Telecommunication graduate (2024) with a focus on IoT platforms and real-time systems, holding a CGPA of 8.53/10 (German equivalent 1.88). Experienced through 2 internship(s) and 2 year(s) of professional work, with hands-on skills in Embedded C, InfluxDB, C++, MATLAB. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Computer Hardware/Software Engineering).
 
-Skills
-- TensorFlow, Git, Spark, Python, Docker, C++
+EDUCATION
+----------------------------------------------------------------------
+2020 - 2024   BE Electronics & Telecommunication
+                Loriport University of Technology
+                CGPA: 8.53/10 | German equivalent grade: 1.88
 
-Projects
-- User-friendly methodical knowledge user: morph interactive functionalities using C++
-- Grass-roots zero administration time-frame: mesh holistic functionalities using Git
-- Front-line even-keeled intranet: optimize front-end action-items using C++
-- Future-proofed full-range functionalities: productize strategic channels using C++
+EXPERIENCE
+----------------------------------------------------------------------
+04/2025 - 04/2026   Software Engineering Intern, Flynn-Carter
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Built monitoring dashboards for continuous data acquisition.
 
-Experience
-- Software Engineer, Hall Ltd (3 yr): orchestrate killer partnerships
+07/2024 - 04/2025   R&D Intern - Machine Learning, Jordan-Sanchez
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Validated the solution against real datasets from production systems.
+
+12/2023 - 09/2024   Hardware Design Intern, Knight-Sparks
+    - Designed PCBs and validated sensor interfaces in lab conditions.
+    - Documented modules and validation procedures following engineering standards.
+    - Built monitoring dashboards for continuous data acquisition.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Iot Platforms-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Embedded C, Python, FreeRTOS.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Real-Time Anomaly Detection Pipeline
+    - Team project applying real-time systems concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Embedded C, InfluxDB, C++, MATLAB, Git, Docker, FreeRTOS, OPC-UA
+Domains             : IoT platforms, real-time systems, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.5), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Lrganized technical workshops and hackathons as an IEEE student branch coordinator.
+    - Vontributed to open-source projects in the embedded and ML ecosystem.

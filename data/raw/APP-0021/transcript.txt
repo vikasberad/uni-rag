@@ -1,11 +1,84 @@
-Official Transcript — Brennanton University
-Degree: BSc Physics   Cumulative GPA: 3.7/4.0
+WEST SARAH COLLEGE OF ENGINEERING
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Patricia Anderson
+Degree            : BSc Computer Science (4-year program)
+Enrollment Number : 865069001
+Period of Study   : 2019 - 2023
+Medium of Instruction: English
 
-  Computer Networks            A-
-  Operating Systems            B+
-  Compilers                    A
-  Software Engineering         A
-  Linear Algebra               A-
-  Discrete Mathematics         B+
-  Machine Learning             A-
-  Databases                    B+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS1940    Engineering Mathematics I                       4     A+    PASS
+CS1291    Engineering Mathematics II                      4     B+    PASS
+CS1176    Fundamentals of Programming II                  4      B    PASS
+CS1468    Engineering Chemistry                           2     B+    PASS
+CS1873    Engineering Graphics                            3     A+    PASS
+          Semester GPA                                        7.59
+
+SEMESTER 2  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS2735    Basic Electrical Engineering                    3     A+    PASS
+CS2521    Fundamentals of Programming I                   4      B    PASS
+CS2216    Team Building, Leadership & Fitness             4     A+    PASS
+          Semester GPA                                        7.91
+
+SEMESTER 3  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS3955    Computer Networks                               2      A    PASS
+CS3661    Computer Organization                           4      A    PASS
+CS3296    Compiler Design                                 4     A+    PASS
+CS3299    Operating Systems                               4     B+    PASS
+CS3523    Database Management Systems                     3      A    PASS
+CS3489    Employability Skill Development                 3     A+    PASS
+          Semester GPA                                        8.15
+
+SEMESTER 4  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+CS4321    Data Structures and Algorithms                  4      A    PASS
+CS4239    Discrete Mathematics                            4      B    PASS
+          Semester GPA                                        7.00
+
+SEMESTER 5  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS5308    Web Technologies                                4      B    PASS
+CS5619    Object Oriented Programming                     2     A+    PASS
+CS5340    Networks Laboratory                             3      B    PASS
+          Semester GPA                                        6.67
+
+SEMESTER 6  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+CS6379    Distributed Computing                           3     B+    PASS
+CS6740    Information Security                            3     B+    PASS
+CS6372    Machine Learning                                3     B+    PASS
+CS6544    Cloud Computing                                 2     B+    PASS
+CS6151    Data Mining                                     3     B+    PASS
+CS6896    Project Stage II                                3      A    PASS
+          Semester GPA                                        7.18
+
+SEMESTER 7  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS7905    High Performance Computing                      3     B+    PASS
+CS7605    Big Data Analytics                              2      B    PASS
+CS7179    Mobile Application Development                  3      B    PASS
+          Semester GPA                                        6.38
+
+SEMESTER 8  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+CS8716    Artificial Intelligence                         3     A+    PASS
+          Semester GPA                                        9.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 93
+CUMULATIVE GPA (CGPA): 7.92 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.25
+
+Date of Issue: 2023-08-08
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

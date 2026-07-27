@@ -1,11 +1,93 @@
-Official Transcript — Reidstad University
-Degree: BSc Computer Science   Cumulative GPA: 3.74/4.0
+EAST WILLIAM COLLEGE OF ENGINEERING
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Brenda Taylor
+Degree            : BEng Electrical Engineering (4-year program)
+Enrollment Number : 638865787
+Period of Study   : 2019 - 2023
+Medium of Instruction: English
 
-  Algorithms                   A
-  Operating Systems            B+
-  Machine Learning             A
-  Software Engineering         A-
-  Data Structures              A
-  Computer Networks            A
-  Deep Learning                B+
-  Discrete Mathematics         B+
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN1764    Engineering Mathematics II                      2      O    PASS
+IN1689    Engineering Chemistry                           3      A    PASS
+IN1404    Engineering Physics                             4      A    PASS
+IN1309    Engineering Graphics                            3      A    PASS
+IN1257    Engineering Mathematics I                       3     A+    PASS
+          Semester GPA                                        8.47
+
+SEMESTER 2  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN2428    Fundamentals of Programming II                  3      O    PASS
+IN2667    Fundamentals of Programming I                   4      O    PASS
+IN2728    Workshop Practices                              4     A+    PASS
+IN2632    Human Behaviour                                 3      O    PASS
+          Semester GPA                                        9.71
+
+SEMESTER 3  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN3808    Control Systems                                 4      A    PASS
+IN3277    Database Management Systems                     3     A+    PASS
+IN3528    Computer Organization                           2     A+    PASS
+IN3252    Analog Communication                            4     A+    PASS
+IN3746    Electrical Measurements & Instrumentation       3      O    PASS
+IN3107    Signal Processing & Communication Lab           3      A    PASS
+IN3374    Professional Ethics                             2      A    PASS
+          Semester GPA                                        8.71
+
+SEMESTER 4  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN4445    Electromagnetics                                4      O    PASS
+IN4136    Electric Circuits & Machines                    2      O    PASS
+IN4434    Electronic Devices & Circuits                   2      A    PASS
+IN4913    Data Structures and Algorithms                  3      O    PASS
+IN4579    VLSI & Embedded Lab                             4      O    PASS
+          Semester GPA                                        9.73
+
+SEMESTER 5  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN5778    Integrated Circuits                             3      A    PASS
+IN5756    Microcontrollers                                3      A    PASS
+IN5289    Machine Learning Laboratory                     4      O    PASS
+          Semester GPA                                        8.80
+
+SEMESTER 6  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN6892    Machine Learning                                2      A    PASS
+IN6385    Mobile Communication                            4     A+    PASS
+IN6937    Embedded Systems & RTOS                         4      O    PASS
+IN6721    Digital Signal Processing                       2      A    PASS
+IN6668    Broadband Communication Systems                 2     A+    PASS
+IN6750    Microcontroller & Mechatronics Lab              2     A+    PASS
+IN6849    Technical Communication                         4      A    PASS
+          Semester GPA                                        8.80
+
+SEMESTER 7  (Winter 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN7750    Digital Communication                           4      A    PASS
+IN7436    Advanced Processors                             3      O    PASS
+IN7252    Distributed Computing                           2     A+    PASS
+IN7553    Microwave Engineering                           3     A+    PASS
+IN7169    Programming Laboratory                          2     A+    PASS
+          Semester GPA                                        8.93
+
+SEMESTER 8  (Summer 2022)
+Code      Module Title                                   Cr  Grade  Status
+IN8658    Artificial Intelligence                         2      O    PASS
+IN8673    VLSI Design & Technology                        2      O    PASS
+          Semester GPA                                       10.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 113
+CUMULATIVE GPA (CGPA): 9.22 / 10.00
+CLASSIFICATION       : FIRST CLASS WITH DISTINCTION
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 1.47
+
+Date of Issue: 2023-11-14
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

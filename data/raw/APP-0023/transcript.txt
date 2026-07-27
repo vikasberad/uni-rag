@@ -1,11 +1,89 @@
-Official Transcript — Kristinaton University
-Degree: BSc Physics   Cumulative GPA: 3.59/4.0
+AMYVIEW TECHNICAL UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Yolanda Mendoza
+Degree            : BSc Information Technology (4-year program)
+Enrollment Number : 930181485
+Period of Study   : 2018 - 2022
+Medium of Instruction: English
 
-  Deep Learning                B+
-  Discrete Mathematics         B+
-  Machine Learning             A
-  Probability & Statistics     A
-  Linear Algebra               A
-  Software Engineering         A
-  Data Structures              B+
-  Databases                    A
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN1578    Engineering Mathematics I                       3     A+    PASS
+IN1232    Fundamentals of Programming II                  4      A    PASS
+IN1697    Basic Electrical Engineering                    3     A+    PASS
+IN1234    Engineering Physics                             4      A    PASS
+IN1995    Engineering Graphics                            4      A    PASS
+          Semester GPA                                        8.33
+
+SEMESTER 2  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+IN2919    Engineering Mechanics                           3      O    PASS
+IN2826    Fundamentals of Programming I                   4      O    PASS
+          Semester GPA                                       10.00
+
+SEMESTER 3  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN3446    Operating Systems                               4      A    PASS
+IN3209    Integrated Circuits                             3      A    PASS
+IN3496    Object Oriented Programming                     3      O    PASS
+IN3785    Network Analysis                                4     A+    PASS
+IN3878    Electronic Devices & Circuits                   4      A    PASS
+IN3718    Electronics Laboratory                          3      A    PASS
+          Semester GPA                                        8.48
+
+SEMESTER 4  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+IN4502    Electrical Measurements & Instrumentation       3      A    PASS
+IN4567    Digital Electronics                             3      A    PASS
+IN4592    Electromagnetics                                2     A+    PASS
+IN4132    Discrete Mathematics                            3      A    PASS
+IN4776    Programming Laboratory                          4      O    PASS
+          Semester GPA                                        8.67
+
+SEMESTER 5  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN5803    Electric Circuits & Machines                    4      O    PASS
+IN5574    Signals & Systems                               4     A+    PASS
+IN5173    Project Stage II                                2     A+    PASS
+          Semester GPA                                        9.40
+
+SEMESTER 6  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+IN6534    Mobile Communication                            2      O    PASS
+IN6842    Artificial Intelligence                         3      A    PASS
+IN6766    Cloud Computing                                 4      O    PASS
+IN6485    Machine Learning                                3     A+    PASS
+          Semester GPA                                        9.25
+
+SEMESTER 7  (Winter 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN7476    Digital Signal Processing                       4     A+    PASS
+IN7909    Power Electronics                               3      O    PASS
+IN7570    VLSI Design & Technology                        4     A+    PASS
+IN7991    Wireless Sensor Networks                        4     A+    PASS
+IN7120    Employability Skill Development                 3      O    PASS
+          Semester GPA                                        9.33
+
+SEMESTER 8  (Summer 2021)
+Code      Module Title                                   Cr  Grade  Status
+IN8239    Microwave Engineering                           4     A+    PASS
+IN8926    Advanced Processors                             4      A    PASS
+IN8660    Power Systems                                   2     A+    PASS
+IN8640    Professional Ethics                             4      O    PASS
+          Semester GPA                                        9.00
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 115
+CUMULATIVE GPA (CGPA): 8.40 / 10.00
+CLASSIFICATION       : FIRST CLASS WITH DISTINCTION
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 1.96
+
+Date of Issue: 2022-06-02
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0024",
-  "name": "Ashley Hall",
-  "email": "harveysherry@example.com",
-  "nationality": "United States Virgin Islands",
-  "program": "MSc Software Engineering",
+  "name": "Lance Hebert",
+  "email": "justin88@example.com",
+  "date_of_birth": "2005-02-18",
+  "nationality": "Colombia",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Information Technology (INFOTECH)",
+  "intended_specialization": "Micro- and Optoelectronics",
   "undergrad_degree": "BSc Computer Science",
-  "undergrad_university": "Lake Bryan University",
-  "gpa": 2.62,
-  "gpa_scale": 4.0,
-  "ielts": 7.2,
-  "gre_quant": 164,
+  "undergrad_university": "Port William State University",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2024,
+  "cgpa": 7.84,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 2.3,
+  "english_test": "IELTS",
+  "english_score": 7.5,
+  "gre_quant": null,
+  "work_experience_years": 2,
+  "internships": 2,
+  "publications": 1,
   "interests": [
-    "natural language processing",
-    "human-computer interaction"
+    "hardware-software co-design",
+    "real-time systems"
   ],
-  "work_experience_years": 0,
-  "publications": 0,
-  "_strength": "weak"
+  "_strength": "average"
 }

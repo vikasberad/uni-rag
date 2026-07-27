@@ -1,10 +1,26 @@
-Letter of Recommendation
+27 December 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Artificial Intelligence program. As their Engineering Manager, I consider them one of the top 5% of students I have taught. They demonstrated particular aptitude in recommender systems, notably in a project involving transform granular supply-chains. Their analytical writing and initiative were exceptional.
+Subject: Letter of Recommendation for Rebecca Taylor
 
-I recommend them without reservation.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Rebecca Taylor for admission to the MSc Computer Science at the University of Stuttgart. In my capacity as Head of Software Development at Blake Group, I directly supervised Rebecca Taylor for 6 months during their engagement as Hardware Design Intern in our organization.
+
+During this period, Rebecca Taylor designed PCBs and validated sensor interfaces in lab conditions, working primarily with Docker, Python, PyTorch. In terms of delivery and impact, they reliably delivered the tasks assigned to them and grew visibly during their time with us. They asked the right questions, incorporated feedback quickly, and by the end of their tenure required minimal supervision on routine tasks.
+
+What distinguished Rebecca Taylor in a professional environment was their combination of technical curiosity and dependability. They integrated smoothly into our team and communicated their progress clearly in stand-ups and reviews. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Computer Science is demanding and strongly research-oriented. Based on my direct observation of Rebecca Taylor's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Rebecca Taylor with confidence. Please do not hesitate to contact me for any further details.
 Sincerely,
-Jason Morris, Engineering Manager
+
+Thomas Kennedy
+Head of Software Development
+Blake Group
+bullockandrew@example.org | (389)286-1434

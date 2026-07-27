@@ -1,11 +1,88 @@
-Official Transcript — Andreaport University
-Degree: BSc Mathematics   Cumulative GPA: 3.71/4.0
+LAKE DIANE STATE UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : John Reid
+Degree            : BEng Electrical Engineering (4-year program)
+Enrollment Number : 731599952
+Period of Study   : 2017 - 2021
+Medium of Instruction: English
 
-  Computer Networks            B+
-  Software Engineering         A-
-  Probability & Statistics     B+
-  Data Structures              A-
-  Discrete Mathematics         A-
-  Algorithms                   B+
-  Operating Systems            B+
-  Linear Algebra               A
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+EE1581    Workshop Practices                              4      B    PASS
+EE1361    Basic Electrical Engineering                    3      B    PASS
+EE1604    Fundamentals of Programming I                   3      A    PASS
+EE1304    Engineering Chemistry                           3     B+    PASS
+EE1573    Engineering Mathematics II                      4     A+    PASS
+          Semester GPA                                        7.24
+
+SEMESTER 2  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+EE2285    Engineering Mechanics                           4      B    PASS
+EE2253    Engineering Mathematics I                       4      A    PASS
+EE2397    Technical Communication                         3     B+    PASS
+          Semester GPA                                        7.00
+
+SEMESTER 3  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+EE3105    Signals & Systems                               4     A+    PASS
+EE3674    Network Analysis                                3     A+    PASS
+EE3957    Electrical Measurements & Instrumentation       4      A    PASS
+EE3506    Digital Electronics                             3     A+    PASS
+EE3400    Electronic Devices & Circuits                   2      A    PASS
+EE3191    Microcontroller & Mechatronics Lab              4      B    PASS
+          Semester GPA                                        8.10
+
+SEMESTER 4  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+EE4707    Analog Communication                            3     B+    PASS
+EE4973    Electric Circuits & Machines                    4     B+    PASS
+EE4469    Microcontrollers                                3      B    PASS
+EE4837    Programming Laboratory                          3     A+    PASS
+          Semester GPA                                        7.23
+
+SEMESTER 5  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE5612    Integrated Circuits                             3      A    PASS
+          Semester GPA                                        8.00
+
+SEMESTER 6  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+EE6777    Machine Learning                                3     B+    PASS
+EE6642    Microwave Engineering                           4      A    PASS
+EE6617    Mobile Communication                            4     B+    PASS
+EE6330    Power Electronics                               3     B+    PASS
+EE6532    Broadband Communication Systems                 3      A    PASS
+EE6846    VLSI & Embedded Lab                             4      B    PASS
+          Semester GPA                                        7.14
+
+SEMESTER 7  (Winter 2020)
+Code      Module Title                                   Cr  Grade  Status
+EE7403    Mechatronics                                    3      A    PASS
+EE7693    Digital Signal Processing                       4     B+    PASS
+EE7825    Power Systems                                   4      B    PASS
+EE7783    Embedded Systems & RTOS                         3      B    PASS
+EE7308    Signal Processing & Communication Lab           3     A+    PASS
+          Semester GPA                                        7.12
+
+SEMESTER 8  (Summer 2020)
+Code      Module Title                                   Cr  Grade  Status
+EE8619    Digital Communication                           4     A+    PASS
+EE8814    Machine Learning Laboratory                     3     B+    PASS
+EE8411    Human Behaviour                                 2     A+    PASS
+          Semester GPA                                        8.33
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 111
+CUMULATIVE GPA (CGPA): 8.11 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.13
+
+Date of Issue: 2021-10-10
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

@@ -1,19 +1,54 @@
-Curriculum Vitae
+PATRICIA ANDERSON
+guerraapril@example.com | 847-532-1046 | Port Mark, Mexico
+Date of Birth: 1998-12-21 | LinkedIn: linkedin.com/in/patricia-anderson
 
-Education
-- BSc Physics, Brennanton University — GPA 3.7/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Computer Science graduate (2023) with a focus on natural language processing and computer vision, holding a CGPA of 7.92/10 (German equivalent 2.25). Experienced through 3 internship(s) and 1 year(s) of professional work, with hands-on skills in Java, Linux, Git, TensorFlow. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Artificial Intelligence).
 
-Skills
-- Git, SQL, TensorFlow, Python, C++, PyTorch
+EDUCATION
+----------------------------------------------------------------------
+2019 - 2023   BSc Computer Science
+                West Sarah College of Engineering
+                CGPA: 7.92/10 | German equivalent grade: 2.25
 
-Projects
-- Multi-channeled holistic Internet solution: orchestrate interactive deliverables using Git
-- Open-source non-volatile software: generate viral communities using Python
-- Enhanced attitude-oriented pricing structure: cultivate enterprise e-business using PyTorch
-- Synergized disintermediate methodology: redefine B2B e-services using TensorFlow
+EXPERIENCE
+----------------------------------------------------------------------
+10/2025 - 01/2026   Software Engineering Intern, Griffith, Lee and Moore
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Containerized the workflow for reproducible deployment.
 
-Experience
-- Software Engineer, Little-Stevens (2 yr): repurpose value-added bandwidth
+03/2025 - 09/2025   Working Student - IoT Analytics, Owens, Koch and Jimenez
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
 
-Publications
-- 1 peer-reviewed paper(s) on MLOps
+10/2024 - 10/2025   Embedded Systems Intern, Landry PLC
+    - Wrote Embedded C firmware for microcontrollers with CAN and SPI drivers.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Improved processing performance through profiling and optimization.
+
+08/2023 - 08/2024   R&D Intern - Machine Learning, Levy-Lewis
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Improved processing performance through profiling and optimization.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Natural Language Processing-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using Kubernetes, Python, Git.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Autonomous Line-Following Robot
+    - Team project applying computer vision concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Java, Linux, Git, TensorFlow, Python, C++, SQL, PyTorch
+Domains             : natural language processing, computer vision, software engineering practices (Git, code review, CI)
+Languages           : English (C1, TOEFL iBT 90), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Lerved as a teaching assistant for undergraduate programming courses.
+    - Led a student chapter organizing guest lectures with industry professionals.

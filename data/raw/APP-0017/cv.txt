@@ -1,16 +1,54 @@
-Curriculum Vitae
+MRS. MARIA WILLIAMS
+hritter@example.net | (929)627-0653 | Youngbury, Turkey
+Date of Birth: 2002-10-04 | LinkedIn: linkedin.com/in/mrs.-maria-williams
 
-Education
-- BSc Computer Science, Port Jaredborough University — GPA 2.58/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Computer Engineering graduate (2021) with a focus on machine learning and distributed systems, holding a CGPA of 8.2/10 (German equivalent 2.08). Experienced through 3 internship(s) and 3 year(s) of professional work, with hands-on skills in Linux, REST APIs, Git, TensorFlow. Applying for the MSc Computer Science at the University of Stuttgart (intended specialization: Visual Computing).
 
-Skills
-- Docker, AWS, Linux, Spark, Python, Git
+EDUCATION
+----------------------------------------------------------------------
+2017 - 2021   BE Computer Engineering
+                West Nathan College of Engineering
+                CGPA: 8.2/10 | German equivalent grade: 2.08
 
-Projects
-- Synergized discrete firmware: generate 24/365 e-commerce using Linux
-- Customizable needs-based definition: visualize B2C niches using AWS
-- Digitized asynchronous approach: leverage extensible metrics using Docker
-- User-friendly non-volatile forecast: grow 24/7 bandwidth using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+09/2025 - 09/2026   Data Engineering Intern, Sheppard-Mueller
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Collaborated with cross-functional engineering teams in an agile environment.
+    - Containerized the workflow for reproducible deployment.
 
-Experience
-- Software Engineer, Torres, Powell and Nelson (1 yr): incubate rich systems
+04/2024 - 04/2025   Working Student - IoT Analytics, Richardson PLC
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Built monitoring dashboards for continuous data acquisition.
+
+07/2023 - 07/2024   R&D Intern - Machine Learning, Murray-Campbell
+    - Trained and evaluated CNN models and built preprocessing pipelines.
+    - Documented modules and validation procedures following engineering standards.
+    - Validated the solution against real datasets from production systems.
+
+12/2022 - 03/2023   Working Student - IoT Analytics, Shaw-Barnes
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Validated the solution against real datasets from production systems.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Machine Learning-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using React, Python, C++.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Real-Time Anomaly Detection Pipeline
+    - Team project applying distributed systems concepts; responsible for system architecture and integration.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : Linux, REST APIs, Git, TensorFlow, React, Kubernetes, SQL, Python
+Domains             : machine learning, distributed systems, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 7.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Led a student chapter organizing guest lectures with industry professionals.
+    - Laptained the university robotics club in national competitions.

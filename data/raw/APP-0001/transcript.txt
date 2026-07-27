@@ -1,11 +1,88 @@
-Official Transcript — New Roberttown University
-Degree: BSc Mathematics   Cumulative GPA: 3.48/4.0
+NEW ROBERTTOWN TECHNICAL UNIVERSITY
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+==============================================================================
+TRANSCRIPT OF RECORDS
+==============================================================================
+Name of Student   : Allison Hill
+Degree            : BE Computer Engineering (4-year program)
+Enrollment Number : 194353249
+Period of Study   : 2016 - 2020
+Medium of Instruction: English
 
-  Software Engineering         B-
-  Deep Learning                A-
-  Computer Networks            A-
-  Operating Systems            B+
-  Discrete Mathematics         B+
-  Data Structures              A-
-  Compilers                    B-
-  Linear Algebra               B
+Grading scale: O=10, A+=9, A=8, B+=7, B=6, C=5 (grade points, 10-point CGPA scale)
+------------------------------------------------------------------------------
+
+SEMESTER 1  (Winter 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS1266    Workshop Practices                              3      A    PASS
+CS1641    Engineering Mechanics                           3     A+    PASS
+CS1187    Fundamentals of Programming II                  3     B+    PASS
+CS1959    Engineering Physics                             4     A+    PASS
+CS1731    Engineering Chemistry                           3      A    PASS
+          Semester GPA                                        8.25
+
+SEMESTER 2  (Summer 2016)
+Code      Module Title                                   Cr  Grade  Status
+CS2940    Engineering Mathematics I                       2      B    PASS
+CS2964    Fundamentals of Programming I                   4      A    PASS
+          Semester GPA                                        7.33
+
+SEMESTER 3  (Winter 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS3190    Compiler Design                                 4      A    PASS
+CS3176    Web Technologies                                2      A    PASS
+CS3161    Computer Organization                           3     B+    PASS
+CS3996    Operating Systems                               3      B    PASS
+CS3457    Design and Analysis of Algorithms               3     A+    PASS
+CS3192    Networks Laboratory                             3      A    PASS
+CS3288    Cyber Crime and Law                             3      A    PASS
+          Semester GPA                                        7.71
+
+SEMESTER 4  (Summer 2017)
+Code      Module Title                                   Cr  Grade  Status
+CS4660    Computer Networks                               3      A    PASS
+CS4575    Data Structures and Algorithms                  4     A+    PASS
+CS4429    Object Oriented Programming                     3     B+    PASS
+CS4700    Team Building, Leadership & Fitness             4      A    PASS
+          Semester GPA                                        8.07
+
+SEMESTER 5  (Winter 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS5492    Discrete Mathematics                            3     B+    PASS
+CS5625    Database Management Systems                     2     A+    PASS
+CS5174    Project Stage I                                 3     A+    PASS
+          Semester GPA                                        8.25
+
+SEMESTER 6  (Summer 2018)
+Code      Module Title                                   Cr  Grade  Status
+CS6362    Mobile Application Development                  3     B+    PASS
+CS6628    Natural Language Processing                     4      A    PASS
+CS6463    Machine Learning                                3     B+    PASS
+CS6820    Artificial Intelligence                         3      B    PASS
+CS6811    Information Security                            4      B    PASS
+CS6860    Business Management                             2      B    PASS
+          Semester GPA                                        6.74
+
+SEMESTER 7  (Winter 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS7268    Big Data Analytics                              3      A    PASS
+CS7236    Cloud Computing                                 4     B+    PASS
+CS7364    Distributed Computing                           4     B+    PASS
+          Semester GPA                                        7.27
+
+SEMESTER 8  (Summer 2019)
+Code      Module Title                                   Cr  Grade  Status
+CS8971    High Performance Computing                      2      B    PASS
+CS8470    Data Mining                                     3     A+    PASS
+CS8835    Machine Learning Laboratory                     4     A+    PASS
+          Semester GPA                                        8.33
+------------------------------------------------------------------------------
+TOTAL CREDITS EARNED : 104
+CUMULATIVE GPA (CGPA): 8.09 / 10.00
+CLASSIFICATION       : FIRST CLASS
+GERMAN EQUIVALENT GRADE (modified Bavarian formula): 2.15
+
+Date of Issue: 2020-11-25
+This transcript lists all examination results recorded by the Office of the
+Controller of Examinations and is issued for the purpose of higher-studies
+applications. Grades once confirmed by the board of examiners are final.

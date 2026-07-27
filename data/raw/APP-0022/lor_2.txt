@@ -1,10 +1,26 @@
-Letter of Recommendation
+28 November 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Computer Science
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Data Science program. As their Engineering Manager, I consider them one of the top 5% of students I have taught. They demonstrated particular aptitude in human-computer interaction, notably in a project involving maximize scalable metrics. Their analytical writing and initiative were exceptional.
+Subject: Letter of Recommendation for Douglas Harper
 
-I recommend them without reservation.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Douglas Harper for admission to the MSc Computer Science at the University of Stuttgart. In my capacity as Head of Software Development at Flores, Long and Jensen, I directly supervised Douglas Harper for 6 months during their engagement as Data Engineering Intern in our organization.
+
+During this period, Douglas Harper implemented ETL workflows and optimized SQL queries for reporting, working primarily with React, PyTorch, Docker. In terms of delivery and impact, they reliably delivered the tasks assigned to them and grew visibly during their time with us. They asked the right questions, incorporated feedback quickly, and by the end of their tenure required minimal supervision on routine tasks.
+
+What distinguished Douglas Harper in a professional environment was their combination of technical curiosity and dependability. They integrated smoothly into our team and communicated their progress clearly in stand-ups and reviews. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Computer Science is demanding and strongly research-oriented. Based on my direct observation of Douglas Harper's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Douglas Harper with confidence. Please do not hesitate to contact me for any further details.
 Sincerely,
-Mary Hill, Engineering Manager
+
+Steven Taylor
+Head of Software Development
+Flores, Long and Jensen
+william88@example.com | 001-994-670-5516x940

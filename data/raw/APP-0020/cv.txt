@@ -1,18 +1,44 @@
-Curriculum Vitae
+ANDRE ALLISON
+ejohnson@example.org | +1-829-811-4678 | East Teresaland, China
+Date of Birth: 2004-03-11 | LinkedIn: linkedin.com/in/andre-allison
 
-Education
-- BSc Computer Science, Martinside University — GPA 3.54/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BE Electronics & Telecommunication graduate (2023) with a focus on power electronics and signal processing, holding a CGPA of 8.41/10 (German equivalent 1.95). Experienced through 1 internship(s) and 2 year(s) of professional work, with hands-on skills in MATLAB, PSpice, PLC Programming, LabVIEW. Applying for the MSc Electrical Engineering at the University of Stuttgart (intended specialization: Signal Processing and Communications).
 
-Skills
-- Docker, Linux, Spark, C++, AWS, TensorFlow
+EDUCATION
+----------------------------------------------------------------------
+2019 - 2023   BE Electronics & Telecommunication
+                Michaelshire Technical University
+                CGPA: 8.41/10 | German equivalent grade: 1.95
 
-Projects
-- Automated clear-thinking middleware: benchmark open-source platforms using Linux
-- Organic bandwidth-monitored moderator: redefine ubiquitous synergies using AWS
-- Up-sized client-server installation: cultivate B2C partnerships using Linux
+EXPERIENCE
+----------------------------------------------------------------------
+08/2026 - 11/2026   Software Engineering Intern, Owens-Holmes
+    - Developed REST APIs and data pipelines using Python and SQL.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Validated the solution against real datasets from production systems.
 
-Experience
-- Software Engineer, Harrington-Baker (1 yr): re-intermediate impactful experiences
+06/2025 - 06/2026   Working Student - IoT Analytics, Humphrey PLC
+    - Built real-time telemetry pipelines using MQTT, InfluxDB and Grafana.
+    - Documented modules and validation procedures following engineering standards.
+    - Improved processing performance through profiling and optimization.
 
-Publications
-- 1 peer-reviewed paper(s) on natural language processing
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Power Electronics-Based Optimization System
+    - Designed and implemented an end-to-end prototype using MATLAB, Python, LabVIEW.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis; findings contributed to 2 publication(s).
+Real-Time Anomaly Detection Pipeline
+    - Team project applying signal processing concepts; responsible for data pipeline and evaluation.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : MATLAB, PSpice, PLC Programming, LabVIEW, Git, Embedded C, Simulink, PCB Design
+Domains             : power electronics, signal processing, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 8.0), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Lerved as a teaching assistant for undergraduate programming courses.
+    - Ced the avionics subsystem of the university rocketry team.

@@ -1,10 +1,26 @@
-Letter of Recommendation
+20 October 2025
 
-To the Admissions Committee,
+Admissions Committee
+MSc Information Technology (INFOTECH)
+University of Stuttgart
+Keplerstrasse 7, 70174 Stuttgart, Germany
 
-I am writing to recommend the applicant for the MSc Data Science program. As their Engineering Manager, I consider them a solid and dependable student. They demonstrated particular aptitude in MLOps, notably in a project involving e-enable open-source web-readiness. With mentorship, they improved steadily over the term.
+Subject: Letter of Recommendation for Elizabeth Ward
 
-I recommend them with confidence.
+Dear Members of the Admissions Committee,
 
+I am writing to recommend Elizabeth Ward for admission to the MSc Information Technology (INFOTECH) at the University of Stuttgart. In my capacity as Head of Software Development at Torres-Oliver, I directly supervised Elizabeth Ward for 3 months during their engagement as Working Student - IoT Analytics in our organization.
+
+During this period, Elizabeth Ward built real-time telemetry pipelines using MQTT, InfluxDB and Grafana, working primarily with OPC-UA, Python, Docker. In terms of delivery and impact, they reliably delivered the tasks assigned to them and grew visibly during their time with us. They asked the right questions, incorporated feedback quickly, and by the end of their tenure required minimal supervision on routine tasks.
+
+What distinguished Elizabeth Ward in a professional environment was their combination of technical curiosity and dependability. They integrated smoothly into our team and communicated their progress clearly in stand-ups and reviews. They also documented their work carefully, a habit that made handover at the end of their engagement seamless and that speaks to the professional maturity your program values.
+
+I understand that the MSc Information Technology (INFOTECH) is demanding and strongly research-oriented. Based on my direct observation of Elizabeth Ward's ability to learn new technologies quickly and to function effectively under real project constraints, I believe they are well prepared for this challenge and will represent your institution well in internships and industry collaborations.
+
+I therefore recommend Elizabeth Ward with confidence. Please do not hesitate to contact me for any further details.
 Sincerely,
-Jordan Frazier, Engineering Manager
+
+Jeremy Dalton
+Head of Software Development
+Torres-Oliver
+colleenbaker@example.org | (932)681-2067

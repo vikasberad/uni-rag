@@ -1,20 +1,29 @@
 {
   "applicant_id": "APP-0022",
-  "name": "Megan Moore",
-  "email": "llandry@example.com",
-  "nationality": "Northern Mariana Islands",
-  "program": "MSc Data Science",
-  "undergrad_degree": "BSc Mathematics",
-  "undergrad_university": "Vaughnmouth University",
-  "gpa": 3.62,
-  "gpa_scale": 4.0,
-  "ielts": 7.3,
-  "gre_quant": 163,
-  "interests": [
-    "human-computer interaction",
-    "edge computing"
-  ],
-  "work_experience_years": 0,
+  "name": "Douglas Harper",
+  "email": "amitchell@example.org",
+  "date_of_birth": "2001-03-27",
+  "nationality": "Brazil",
+  "aps_required": false,
+  "target_university": "University of Stuttgart",
+  "program": "MSc Computer Science",
+  "intended_specialization": "Artificial Intelligence",
+  "undergrad_degree": "BE Computer Engineering",
+  "undergrad_university": "West Jessica State University",
+  "undergrad_duration_years": 4,
+  "graduation_year": 2021,
+  "cgpa": 8.22,
+  "cgpa_scale": 10.0,
+  "german_equivalent_grade": 2.07,
+  "english_test": "IELTS",
+  "english_score": 7.0,
+  "gre_quant": 167,
+  "work_experience_years": 4,
+  "internships": 3,
   "publications": 0,
-  "_strength": "strong"
+  "interests": [
+    "AI safety",
+    "software architecture"
+  ],
+  "_strength": "average"
 }

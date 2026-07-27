@@ -1,15 +1,49 @@
-Curriculum Vitae
+YOLANDA MENDOZA
+ledwards@example.com | +1-520-282-6773x45401 | South Nicole, Vietnam
+Date of Birth: 2005-04-30 | LinkedIn: linkedin.com/in/yolanda-mendoza
 
-Education
-- BSc Physics, Kristinaton University — GPA 3.59/4.0
+PROFESSIONAL SUMMARY
+----------------------------------------------------------------------
+BSc Information Technology graduate (2022) with a focus on edge AI and communication networks, holding a CGPA of 8.4/10 (German equivalent 1.96). Experienced through 2 internship(s) and 2 year(s) of professional work, with hands-on skills in MQTT, Git, FreeRTOS, C++. Applying for the MSc Information Technology (INFOTECH) at the University of Stuttgart (intended specialization: Micro- and Optoelectronics).
 
-Skills
-- C++, Spark, Linux, Python, TensorFlow, SQL
+EDUCATION
+----------------------------------------------------------------------
+2018 - 2022   BSc Information Technology
+                Amyview Technical University
+                CGPA: 8.4/10 | German equivalent grade: 1.96
 
-Projects
-- User-friendly global website: embrace plug-and-play partnerships using Python
-- Digitized web-enabled definition: cultivate impactful schemas using Linux
-- Multi-lateral background utilization: strategize value-added portals using Spark
+EXPERIENCE
+----------------------------------------------------------------------
+04/2025 - 01/2026   Data Engineering Intern, Peck Inc
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Presented results to stakeholders and incorporated iterative feedback.
+    - Containerized the workflow for reproducible deployment.
 
-Experience
-- Software Engineer, Martinez, Richardson and Curry (3 yr): morph enterprise functionalities
+10/2024 - 07/2025   Backend Developer Intern, French-Lopez
+    - Implemented microservices with Docker, CI/CD and automated testing.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Built monitoring dashboards for continuous data acquisition.
+
+03/2023 - 03/2024   Data Engineering Intern, Hayden, Howe and Mcdowell
+    - Implemented ETL workflows and optimized SQL queries for reporting.
+    - Automated testing and reporting workflows, improving team productivity.
+    - Built monitoring dashboards for continuous data acquisition.
+
+PROJECTS
+----------------------------------------------------------------------
+Final-Year Thesis: Edge Ai-Based Monitoring System
+    - Designed and implemented an end-to-end prototype using OPC-UA, InfluxDB, FreeRTOS.
+    - Evaluated the approach on benchmark data and documented results in a formal thesis.
+Real-Time Anomaly Detection Pipeline
+    - Team project applying communication networks concepts; responsible for model training and deployment.
+
+TECHNICAL SKILLS
+----------------------------------------------------------------------
+Programming & Tools : MQTT, Git, FreeRTOS, C++, Python, Linux, Embedded C, Docker
+Domains             : edge AI, communication networks, software engineering practices (Git, code review, CI)
+Languages           : English (C1, IELTS 8.5), German (A1-A2, learning)
+
+ACTIVITIES & LEADERSHIP
+----------------------------------------------------------------------
+    - Lontributed to open-source projects in the embedded and ML ecosystem.
+    - Coordinated the annual departmental technical symposium.
