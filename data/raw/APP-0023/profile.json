@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0023",
+  "name": "Patricia Becker",
+  "email": "courtneyberger@example.net",
+  "nationality": "Armenia",
+  "program": "MSc Computer Science",
+  "undergrad_degree": "BSc Physics",
+  "undergrad_university": "Kristinaton University",
+  "gpa": 3.59,
+  "gpa_scale": 4.0,
+  "ielts": 6.9,
+  "gre_quant": 152,
+  "interests": [
+    "distributed systems",
+    "recommender systems"
+  ],
+  "work_experience_years": 3,
+  "publications": 0,
+  "_strength": "strong"
+}

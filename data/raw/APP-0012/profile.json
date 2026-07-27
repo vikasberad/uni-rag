@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0012",
+  "name": "Gary Owens",
+  "email": "clarkrobert@example.net",
+  "nationality": "Yemen",
+  "program": "MSc Software Engineering",
+  "undergrad_degree": "BSc Mathematics",
+  "undergrad_university": "Port Nicoleshire University",
+  "gpa": 3.56,
+  "gpa_scale": 4.0,
+  "ielts": 7.1,
+  "gre_quant": 161,
+  "interests": [
+    "AI safety",
+    "natural language processing"
+  ],
+  "work_experience_years": 0,
+  "publications": 0,
+  "_strength": "strong"
+}

@@ -1,0 +1,7 @@
+Statement of Purpose — MSc Robotics
+
+My fascination with reinforcement learning began during my BEng Electrical Engineering at East Robert University, where a course project on synergize virtual e-business showed me how theory translates into real impact. Since then I have deepened my skills in reinforcement learning and computer vision, completing an undergraduate thesis on "Reinforcement Learning approaches to re-contextualized exuding initiative".
+
+During 3 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
+
+Your program's strengths in computer vision align directly with my goal of pursuing research at the intersection of reinforcement learning and computer vision. Long term, I aim to lead an applied research team. I am confident my background in BEng Electrical Engineering (GPA 2.89/4.0) prepares me to contribute meaningfully to your community.

@@ -1,0 +1,15 @@
+Curriculum Vitae
+
+Education
+- BSc Physics, Kristinaton University — GPA 3.59/4.0
+
+Skills
+- C++, Spark, Linux, Python, TensorFlow, SQL
+
+Projects
+- User-friendly global website: embrace plug-and-play partnerships using Python
+- Digitized web-enabled definition: cultivate impactful schemas using Linux
+- Multi-lateral background utilization: strategize value-added portals using Spark
+
+Experience
+- Software Engineer, Martinez, Richardson and Curry (3 yr): morph enterprise functionalities

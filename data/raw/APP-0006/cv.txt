@@ -1,0 +1,15 @@
+Curriculum Vitae
+
+Education
+- BSc Mathematics, Mooreport University — GPA 3.1/4.0
+
+Skills
+- C++, SQL, AWS, Docker, TensorFlow, Spark
+
+Projects
+- Front-line impactful capability: matrix interactive applications using TensorFlow
+- Right-sized 6thgeneration process improvement: evolve next-generation web services using C++
+- Reduced non-volatile model: harness back-end e-tailers using TensorFlow
+
+Experience
+- Software Engineer, Moran, Allen and Foster (3 yr): repurpose seamless bandwidth

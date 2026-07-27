@@ -1,0 +1,11 @@
+Official Transcript — East Robert University
+Degree: BEng Electrical Engineering   Cumulative GPA: 2.89/4.0
+
+  Databases                    B-
+  Software Engineering         B
+  Data Structures              B
+  Operating Systems            B-
+  Machine Learning             B
+  Linear Algebra               C+
+  Compilers                    C+
+  Probability & Statistics     B-

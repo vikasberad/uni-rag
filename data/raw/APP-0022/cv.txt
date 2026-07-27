@@ -1,0 +1,11 @@
+Curriculum Vitae
+
+Education
+- BSc Mathematics, Vaughnmouth University — GPA 3.62/4.0
+
+Skills
+- TensorFlow, AWS, Git, SQL, Docker, Spark
+
+Projects
+- User-friendly modular forecast: revolutionize bleeding-edge metrics using Git
+- Multi-channeled directional productivity: aggregate dot-com methodologies using Spark

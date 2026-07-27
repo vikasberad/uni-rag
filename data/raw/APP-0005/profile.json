@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0005",
+  "name": "Mark Perez",
+  "email": "heathchad@example.org",
+  "nationality": "Fiji",
+  "program": "MSc Computer Science",
+  "undergrad_degree": "BEng Electrical Engineering",
+  "undergrad_university": "Lewisberg University",
+  "gpa": 2.61,
+  "gpa_scale": 4.0,
+  "ielts": 8.4,
+  "gre_quant": 164,
+  "interests": [
+    "natural language processing",
+    "MLOps"
+  ],
+  "work_experience_years": 1,
+  "publications": 1,
+  "_strength": "weak"
+}

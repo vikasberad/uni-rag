@@ -1,0 +1,10 @@
+Letter of Recommendation
+
+To the Admissions Committee,
+
+I am writing to recommend the applicant for the MSc Data Science program. As their Professor, I consider them a student who showed potential but inconsistent performance. They demonstrated particular aptitude in human-computer interaction, notably in a project involving reinvent real-time e-business. With mentorship, they improved steadily over the term.
+
+I recommend them with some reservations noted above.
+
+Sincerely,
+Julia Hernandez, Professor

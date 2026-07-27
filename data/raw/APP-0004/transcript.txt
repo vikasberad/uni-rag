@@ -1,0 +1,11 @@
+Official Transcript — New Mariotown University
+Degree: BSc Mathematics   Cumulative GPA: 3.05/4.0
+
+  Deep Learning                B
+  Probability & Statistics     B-
+  Discrete Mathematics         B
+  Operating Systems            B
+  Computer Networks            A-
+  Data Structures              A-
+  Software Engineering         B
+  Algorithms                   B-

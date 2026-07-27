@@ -1,0 +1,20 @@
+{
+  "applicant_id": "APP-0021",
+  "name": "Gary Craig",
+  "email": "ofinley@example.net",
+  "nationality": "Tuvalu",
+  "program": "MSc Robotics",
+  "undergrad_degree": "BSc Physics",
+  "undergrad_university": "Brennanton University",
+  "gpa": 3.7,
+  "gpa_scale": 4.0,
+  "ielts": 6.6,
+  "gre_quant": 153,
+  "interests": [
+    "MLOps",
+    "human-computer interaction"
+  ],
+  "work_experience_years": 2,
+  "publications": 1,
+  "_strength": "strong"
+}

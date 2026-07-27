@@ -1,0 +1,11 @@
+Official Transcript — South Andrewside University
+Degree: BSc Physics   Cumulative GPA: 3.58/4.0
+
+  Machine Learning             A-
+  Linear Algebra               A-
+  Software Engineering         A-
+  Probability & Statistics     A
+  Operating Systems            B+
+  Algorithms                   A-
+  Discrete Mathematics         A-
+  Computer Networks            B+

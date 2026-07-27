@@ -1,0 +1,7 @@
+Statement of Purpose — MSc Robotics
+
+My fascination with recommender systems began during my BSc Mathematics at New Roberttown University, where a course project on evolve killer e-services showed me how theory translates into real impact. Since then I have deepened my skills in recommender systems and distributed systems, completing an undergraduate thesis on "Recommender Systems approaches to profit-focused real-time algorithm".
+
+During 1 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
+
+Your program's strengths in distributed systems align directly with my goal of pursuing research at the intersection of recommender systems and distributed systems. Long term, I aim to pursue a PhD. I am confident my background in BSc Mathematics (GPA 3.48/4.0) prepares me to contribute meaningfully to your community.
