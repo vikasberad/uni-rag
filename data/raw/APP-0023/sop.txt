@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Computer Science
-
-My fascination with distributed systems began during my BSc Physics at Kristinaton University, where a course project on benchmark bricks-and-clicks channels showed me how theory translates into real impact. Since then I have deepened my skills in distributed systems and recommender systems, completing an undergraduate thesis on "Distributed Systems approaches to cross-group explicit graphic interface".
-
-During 3 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
-
-Your program's strengths in recommender systems align directly with my goal of pursuing research at the intersection of distributed systems and recommender systems. Long term, I aim to build products that make AI trustworthy. I am confident my background in BSc Physics (GPA 3.59/4.0) prepares me to contribute meaningfully to your community.

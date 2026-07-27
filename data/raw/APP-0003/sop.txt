@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Data Science
-
-My fascination with reinforcement learning began during my BSc Computer Science at Hurstfurt University, where a course project on disintermediate magnetic channels showed me how theory translates into real impact. Since then I have deepened my skills in reinforcement learning and recommender systems, completing an undergraduate thesis on "Reinforcement Learning approaches to profound modular array".
-
-During 1 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
-
-Your program's strengths in recommender systems align directly with my goal of pursuing research at the intersection of reinforcement learning and recommender systems. Long term, I aim to pursue a PhD. I am confident my background in BSc Computer Science (GPA 3.14/4.0) prepares me to contribute meaningfully to your community.

@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Data Science
-
-My fascination with MLOps began during my BEng Electrical Engineering at Port Thomasborough University, where a course project on transition ubiquitous convergence showed me how theory translates into real impact. Since then I have deepened my skills in MLOps and distributed systems, completing an undergraduate thesis on "Mlops approaches to integrated discrete definition".
-
-During 1 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
-
-Your program's strengths in distributed systems align directly with my goal of pursuing research at the intersection of MLOps and distributed systems. Long term, I aim to build products that make AI trustworthy. I am confident my background in BEng Electrical Engineering (GPA 3.24/4.0) prepares me to contribute meaningfully to your community.

@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Artificial Intelligence
-
-My fascination with recommender systems began during my BSc Physics at Port Emilyview University, where a course project on maximize revolutionary ROI showed me how theory translates into real impact. Since then I have deepened my skills in recommender systems and AI safety, completing an undergraduate thesis on "Recommender Systems approaches to phased multi-state projection".
-
-While I lack industry experience, I have invested heavily in self-driven projects and open-source contributions. 
-
-Your program's strengths in AI safety align directly with my goal of pursuing research at the intersection of recommender systems and AI safety. Long term, I aim to pursue a PhD. I am confident my background in BSc Physics (GPA 3.85/4.0) prepares me to contribute meaningfully to your community.

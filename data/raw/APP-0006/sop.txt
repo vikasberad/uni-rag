@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Artificial Intelligence
-
-My fascination with computer vision began during my BSc Mathematics at Mooreport University, where a course project on architect leading-edge applications showed me how theory translates into real impact. Since then I have deepened my skills in computer vision and edge computing, completing an undergraduate thesis on "Computer Vision approaches to user-centric needs-based approach".
-
-During 3 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. 
-
-Your program's strengths in edge computing align directly with my goal of pursuing research at the intersection of computer vision and edge computing. Long term, I aim to pursue a PhD. I am confident my background in BSc Mathematics (GPA 3.1/4.0) prepares me to contribute meaningfully to your community.

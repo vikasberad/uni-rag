@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Robotics
-
-My fascination with MLOps began during my BSc Mathematics at Andreaport University, where a course project on grow holistic initiatives showed me how theory translates into real impact. Since then I have deepened my skills in MLOps and distributed systems, completing an undergraduate thesis on "Mlops approaches to assimilated responsive portal".
-
-During 1 year(s) in industry, I built production systems and learned to ship reliable software under real constraints. I have co-authored 1 peer-reviewed publication(s), which taught me rigorous experimental methodology. 
-
-Your program's strengths in distributed systems align directly with my goal of pursuing research at the intersection of MLOps and distributed systems. Long term, I aim to build products that make AI trustworthy. I am confident my background in BSc Mathematics (GPA 3.71/4.0) prepares me to contribute meaningfully to your community.

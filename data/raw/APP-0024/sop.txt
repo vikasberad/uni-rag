@@ -1,7 +1,0 @@
-Statement of Purpose — MSc Software Engineering
-
-My fascination with natural language processing began during my BSc Computer Science at Lake Bryan University, where a course project on transition plug-and-play content showed me how theory translates into real impact. Since then I have deepened my skills in natural language processing and human-computer interaction, completing an undergraduate thesis on "Natural Language Processing approaches to streamlined incremental budgetary management".
-
-While I lack industry experience, I have invested heavily in self-driven projects and open-source contributions. 
-
-Your program's strengths in human-computer interaction align directly with my goal of pursuing research at the intersection of natural language processing and human-computer interaction. Long term, I aim to lead an applied research team. I am confident my background in BSc Computer Science (GPA 2.62/4.0) prepares me to contribute meaningfully to your community.
