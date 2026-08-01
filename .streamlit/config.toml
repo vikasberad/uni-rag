@@ -1,0 +1,7 @@
+# Disables Streamlit's source file watcher, which otherwise walks through the
+# installed `transformers` package and prints thousands of harmless
+# "No module named 'torchvision'" tracebacks on startup.
+# Trade-off: the app no longer hot-reloads on code edits — just press 'R' in the
+# browser or restart `streamlit run` after changing code.
+[server]
+fileWatcherType = "none"
